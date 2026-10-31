@@ -1,6 +1,6 @@
 # Infotag
 
-**Infotag** is a private, structured research archive. This repository currently contains the ChatGPT research collection only.
+**Infotag** is a structured research archive for technology news, company research, industry analysis and long-term investment outlooks. This repository currently contains the ChatGPT research collection.
 
 ## Research collection
 
@@ -19,6 +19,6 @@
 
 The intended research cadence is every three days. Each batch should cover its stated date range and contain the news, company developments, industry developments, market context, investor implications and sources gathered for that cycle. A scheduled ChatGPT brief does not automatically mean GitHub has been updated; a publishing workflow must be separately configured and verified.
 
-## Privacy
+## Public repository notice
 
-This repository is intended to remain private. Do not commit API keys, access tokens, credentials, personal data or confidential third-party material.
+This repository is currently public. Do not commit API keys, access tokens, credentials, personal data, confidential third-party material, or copyrighted source documents that you do not have permission to redistribute. Prefer links and concise research summaries when referencing third-party publications.
