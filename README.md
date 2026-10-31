@@ -1,24 +1,32 @@
 # Infotag
 
-**Infotag** is a structured research archive for technology news, company research, industry analysis and long-term investment outlooks. This repository currently contains the ChatGPT research collection.
+Infotag is a structured archive of technology research, company developments, industry analysis, and investment outlooks.
 
-## Research collection
+## Repository structure
 
-- [ChatGPT](ChatGPT/README.md): research prepared in ChatGPT.
-  - [Tech News](ChatGPT/Tech-News/README.md): technology news, company developments, industry analysis and investment outlooks.
+- [Updates](Updates/README.md): chronological research publications.
+  - [Provider](Updates/Provider/README.md): stable provider directory; provider identity is recorded in metadata.
+  - [31 October 2026 update](Updates/Provider/2026-10-31/README.md): initial consolidated report.
+- [Management](Management/README.md): architecture, research standards, publishing operations, quality control, automation records, change log, and indexes.
 
-## Archive principles
+## Dynamic update model
 
-- Preserve dated reporting batches as historical records.
-- Keep subject-based research outside the frequency archive.
-- Distinguish verified facts, company statements, analyst estimates, forecasts and unverified claims.
-- Record publication dates, source links, measurement dates and methodology caveats.
-- Do not silently overwrite historical research; publish corrections or revised versions with a clear change note.
+Every update follows:
 
-## Update cadence
+`Updates/Provider/YYYY-MM-DD/Data/`
 
-The intended research cadence is every three days. Each batch should cover its stated date range and contain the news, company developments, industry developments, market context, investor implications and sources gathered for that cycle. A scheduled ChatGPT brief does not automatically mean GitHub has been updated; a publishing workflow must be separately configured and verified.
+The date is the publication date. Each `Data` directory is dynamic and contains only topics supported by material findings from that reporting period. Company and industry folders are not pre-created as empty templates. New companies and themes can be added whenever they become relevant.
 
-## Public repository notice
+Routine updates are intended to cover three-day intervals. The initial 31 October 2026 update preserves its original 22–31 October research coverage.
 
-This repository is currently public. Do not commit API keys, access tokens, credentials, personal data, confidential third-party material, or copyrighted source documents that you do not have permission to redistribute. Prefer links and concise research summaries when referencing third-party publications.
+## Research integrity
+
+- Cite material claims and record publication and measurement dates.
+- Distinguish verified facts, company guidance, analyst estimates, forecasts, rumours, and interpretation.
+- Include positive and negative implications, risks, and uncertainty.
+- Preserve historical updates; publish corrections rather than silently rewriting them.
+- Do not commit secrets, credentials, personal data, or copyrighted material without redistribution rights.
+
+## Publication status
+
+A research brief is not considered published until the GitHub commit succeeds and the resulting files are verified.
