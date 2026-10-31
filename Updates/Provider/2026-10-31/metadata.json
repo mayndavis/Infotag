@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "update_id": "chatgpt-2026-10-31",
+  "provider": "ChatGPT",
+  "publication_date": "2026-10-31",
+  "coverage_period": {
+    "start": "2026-10-22",
+    "end": "2026-10-31"
+  },
+  "update_type": "initial_consolidated_research",
+  "status": "published",
+  "version": 1,
+  "topics_covered": [
+    "technology_market_fact_check",
+    "company_developments",
+    "semiconductors",
+    "artificial_intelligence",
+    "ai_infrastructure",
+    "cloud_computing",
+    "data_centres",
+    "networking",
+    "power_and_cooling",
+    "historical_market_performance",
+    "investment_outlook_2027_2031",
+    "risk_analysis"
+  ],
+  "companies_and_organisations_covered": [
+    "Apple",
+    "NVIDIA",
+    "Microsoft",
+    "Alphabet",
+    "Amazon",
+    "Meta Platforms",
+    "Tesla",
+    "Broadcom",
+    "TSMC",
+    "Micron",
+    "AMD",
+    "Intel",
+    "SK hynix",
+    "Vertiv",
+    "Anthropic"
+  ],
+  "source_references": {
+    "count": 10,
+    "count_basis": "Numbered reference entries in Part IV of the report; this is not a count of unique underlying publishers or independently verified source documents.",
+    "verification_note": "Some entries have incomplete article URLs or require edition-level verification, as disclosed in the report."
+  },
+  "report": {
+    "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Fact-Check-2026.md",
+    "format": "text/markdown"
+  },
+  "notes": [
+    "Initial archive edition; coverage is longer than the routine three-day reporting interval.",
+    "Topic and company arrays describe material coverage in this update and are not a fixed taxonomy.",
+    "Market figures and forecasts are time-specific and require re-verification before reuse."
+  ]
+}
