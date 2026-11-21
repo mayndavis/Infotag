@@ -1,0 +1,38 @@
+{
+  "execution_id": "exec-20261121-105136-3244bb0d",
+  "start_time": "2026-11-21T10:51:29.693272+00:00",
+  "completion_time": "2026-11-21T10:51:36.230153+00:00",
+  "duration_seconds": 6.54,
+  "research_period": {
+    "start": "2026-11-18",
+    "end": "2026-11-21"
+  },
+  "sources_examined": 9,
+  "findings_identified": 9,
+  "claims_verified": 17,
+  "reports_generated": 17,
+  "files_published": [
+    "Updates\\Provider\\2026-11-21\\Data\\02-Master-Reports\\Technology-Market\\Technology-Market-Research-Report-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\02-Master-Reports\\Fact-Checks\\Fact-Check-Report-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\03-Company-Research\\Alphabet\\Alphabet-Update-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\03-Company-Research\\Microsoft\\Microsoft-Update-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\03-Company-Research\\SK-hynix\\SK-hynix-Update-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\03-Company-Research\\NVIDIA\\NVIDIA-Update-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\03-Company-Research\\Apple\\Apple-Update-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\03-Company-Research\\MRVL\\MRVL-Update-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\03-Company-Research\\AMD\\AMD-Update-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\03-Company-Research\\Vertiv\\Vertiv-Update-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\03-Company-Research\\Meta-Platforms\\Meta-Platforms-Update-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\03-Company-Research\\TSMC\\TSMC-Update-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\03-Company-Research\\Amazon\\Amazon-Update-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\05-Investment-Outlook\\Investment-Outlook-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\Data\\06-Sources-and-References\\Source-Register-2026-11-21.md",
+    "Updates\\Provider\\2026-11-21\\README.md",
+    "Updates\\Provider\\2026-11-21\\metadata.json"
+  ],
+  "commit_sha": "dry-run-validated",
+  "status": "SUCCESS",
+  "errors": [],
+  "warnings": [],
+  "trigger": "manual"
+}

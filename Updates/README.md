@@ -20,3 +20,4 @@ This is the chronological record of research updates produced by the repository'
 6. Do not silently alter a published update. Add a correction or a superseding update with a link to the original.
 
 The topic taxonomy is guidance for organizing real findings, not a folder template that must be copied into every update.
+- **2026-11-21 Update:** [View 2026-11-21 Briefing](Provider/2026-11-21/README.md)

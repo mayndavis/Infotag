@@ -1,0 +1,22 @@
+{
+  "execution_id": "exec-20261121-105122-6c2e21ce",
+  "start_time": "2026-11-21T10:51:22.836267+00:00",
+  "completion_time": "2026-11-21T10:51:22.839289+00:00",
+  "duration_seconds": 0.0,
+  "research_period": {
+    "start": "2026-11-21",
+    "end": "2026-11-21"
+  },
+  "sources_examined": 0,
+  "findings_identified": 0,
+  "claims_verified": 0,
+  "reports_generated": 0,
+  "files_published": [],
+  "commit_sha": null,
+  "status": "SKIPPED",
+  "errors": [],
+  "warnings": [
+    "Update not due yet: 7.9 hours elapsed since 2026-11-21. Requires 64.1 more hours (due at 2026-11-24 06:00:00 EAT)."
+  ],
+  "trigger": "scheduled"
+}

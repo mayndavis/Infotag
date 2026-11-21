@@ -1,0 +1,280 @@
+[
+  {
+    "id": "brief-20261121-nvidia-blackwell-ultra-b300-rubin-pl",
+    "date": "2026-11-18",
+    "title": "NVIDIA Blackwell Ultra B300 & Rubin Platform Architecture Roadmap Disclosures",
+    "pillar": "semiconductors",
+    "secondaryPillars": [
+      "data-centres"
+    ],
+    "tickers": [
+      "NVDA",
+      "TSM"
+    ],
+    "hardwareNodes": [
+      "HBM3e",
+      "Blackwell Ultra B300",
+      "Rubin",
+      "NVL72",
+      "Direct-to-Chip Liquid Cooling"
+    ],
+    "sentiment": "neutral",
+    "executiveSignal": "NVIDIA announced architecture enhancements for Blackwell Ultra B300 accelerator nodes, detailing 288GB HBM3e configurations and liquid-cooled rack integrations with TSMC CoWoS-L packaging.",
+    "hardwareBottleneck": "Infrastructure and node analysis indicates: NVIDIA confirmed transition timelines for Blackwell Ultra (B300) leveraging 12-high HBM3e stacks offering 8.0 TB/s memory bandwidth. TSMC foundry packaging allocations secured through late 2027. Full-rack NVL72 architectures draw up to 132 kW per rack, mandati... Packaging yield and thermal dissipation remain primary governors of deployment velocity.",
+    "capitalEfficiency": "Financial and capital allocation implications: Capex deployment across NVDA, TSM requires sustained revenue expansion to mitigate ROIC compression and manage multi-year balance sheet commitments.",
+    "riskWatch": "1. Customer and foundry concentration risk at tier-1 manufacturing hubs. 2. Depreciation drag if enterprise inference demand normalizes faster than hyperscaler capex commitments.",
+    "sources": [
+      {
+        "title": "NVIDIA Blackwell Ultra B300 & Rubin Platform Architecture Roadmap Disclosures",
+        "url": "https://nvidianews.nvidia.com/news/accelerated-computing-platform-roadmap",
+        "publisher": "NVIDIA Corporation",
+        "date": "2026-11-18"
+      }
+    ],
+    "updatedAt": 1795258295842,
+    "version": 1
+  },
+  {
+    "id": "brief-20261121-tsmc-advanced-packaging-fab-ap8-grou",
+    "date": "2026-11-15",
+    "title": "TSMC Advanced Packaging Fab AP8 Groundbreaking and N2 Mass Production Schedule",
+    "pillar": "semiconductors",
+    "secondaryPillars": [
+      "capital-efficiency"
+    ],
+    "tickers": [
+      "TSM",
+      "AAPL",
+      "NVDA",
+      "AMD"
+    ],
+    "hardwareNodes": [
+      "CoWoS-L"
+    ],
+    "sentiment": "bottleneck",
+    "executiveSignal": "TSMC confirmed construction kickoff for Advanced Packaging Fab 8 (AP8) to expand CoWoS and SoIC cleanroom capacity by 45% by mid-2027 to relieve severe hyperscaler supply constraints.",
+    "hardwareBottleneck": "Infrastructure and node analysis indicates: TSMC capital expenditure trajectory remains oriented around 2nm (N2 GAA) nanosheet transition and CoWoS-L capacity expansion. Monthly CoWoS wafer output targeted to exceed 75,000 wafers per month by Q3 2027 to address backorders across top fabless clients.... Packaging yield and thermal dissipation remain primary governors of deployment velocity.",
+    "capitalEfficiency": "Financial and capital allocation implications: Capex deployment across TSM, AAPL, NVDA, AMD requires sustained revenue expansion to mitigate ROIC compression and manage multi-year balance sheet commitments.",
+    "riskWatch": "1. Customer and foundry concentration risk at tier-1 manufacturing hubs. 2. Depreciation drag if enterprise inference demand normalizes faster than hyperscaler capex commitments.",
+    "sources": [
+      {
+        "title": "TSMC Advanced Packaging Fab AP8 Groundbreaking and N2 Mass Production Schedule",
+        "url": "https://www.tsmc.com/english/news-events/press-releases",
+        "publisher": "Taiwan Semiconductor Manufacturing Co., Ltd.",
+        "date": "2026-11-15"
+      }
+    ],
+    "updatedAt": 1795258295842,
+    "version": 1
+  },
+  {
+    "id": "brief-20261121-microsoft-corporation-sec-form-10-q",
+    "date": "2026-11-12",
+    "title": "Microsoft Corporation SEC Form 10-Q Quarterly Filing: Capex & Azure Infrastructure Disclosures",
+    "pillar": "cloud",
+    "secondaryPillars": [
+      "capital-efficiency"
+    ],
+    "tickers": [
+      "MSFT"
+    ],
+    "hardwareNodes": [],
+    "sentiment": "bearish",
+    "executiveSignal": "Microsoft quarterly SEC filing indicates quarterly capital expenditures exceeding $19.2B, with 68% dedicated to cloud infrastructure, disaggregated inference GPUs, and long-term data center leases.",
+    "hardwareBottleneck": "Infrastructure and node analysis indicates: Additions to property, plant and equipment, including finance leases, were $19.2 billion. Cloud and AI capacity investments expanded across 60 global regions. Management confirmed depreciation timelines on server hardware maintained at 4-5 years, dampening imm... Packaging yield and thermal dissipation remain primary governors of deployment velocity.",
+    "capitalEfficiency": "Financial and capital allocation implications: Capex deployment across MSFT requires sustained revenue expansion to mitigate ROIC compression and manage multi-year balance sheet commitments.",
+    "riskWatch": "1. Customer and foundry concentration risk at tier-1 manufacturing hubs. 2. Depreciation drag if enterprise inference demand normalizes faster than hyperscaler capex commitments.",
+    "sources": [
+      {
+        "title": "Microsoft Corporation SEC Form 10-Q Quarterly Filing: Capex & Azure Infrastructure Disclosures",
+        "url": "https://www.sec.gov/edgar/data/789019/0000950170-26-000100",
+        "publisher": "U.S. Securities and Exchange Commission",
+        "date": "2026-11-12"
+      }
+    ],
+    "updatedAt": 1795258295842,
+    "version": 1
+  },
+  {
+    "id": "brief-20261121-amazon-com-inc-aws-ai-infrastructure",
+    "date": "2026-11-14",
+    "title": "Amazon.com Inc. AWS AI Infrastructure & Custom Trainium2 Deployment Expansion",
+    "pillar": "cloud",
+    "secondaryPillars": [
+      "semiconductors"
+    ],
+    "tickers": [
+      "AMZN",
+      "MRVL"
+    ],
+    "hardwareNodes": [
+      "Trainium2"
+    ],
+    "sentiment": "bullish",
+    "executiveSignal": "AWS deployed first multi-pod Trainium2 clusters for Anthropic and enterprise customers, citing 40% lower cost-to-train relative to comparative merchant GPU instances.",
+    "hardwareBottleneck": "Infrastructure and node analysis indicates: AWS announced general availability of EC2 Trn2 instances featuring 16 Annapurna Trainium2 accelerators interconnected via proprietary NeuronLink-v2 mesh. Amazon highlighted significant hyperscaler TCO savings for long-context inference workloads.... Packaging yield and thermal dissipation remain primary governors of deployment velocity.",
+    "capitalEfficiency": "Financial and capital allocation implications: Capex deployment across AMZN, MRVL requires sustained revenue expansion to mitigate ROIC compression and manage multi-year balance sheet commitments.",
+    "riskWatch": "1. Customer and foundry concentration risk at tier-1 manufacturing hubs. 2. Depreciation drag if enterprise inference demand normalizes faster than hyperscaler capex commitments.",
+    "sources": [
+      {
+        "title": "Amazon.com Inc. AWS AI Infrastructure & Custom Trainium2 Deployment Expansion",
+        "url": "https://press.aboutamazon.com/news-releases/aws-trainium2-cluster-availability",
+        "publisher": "Amazon Web Services Investor Relations",
+        "date": "2026-11-14"
+      }
+    ],
+    "updatedAt": 1795258295842,
+    "version": 1
+  },
+  {
+    "id": "brief-20261121-sk-hynix-commits-16-high-hbm4-sample",
+    "date": "2026-11-10",
+    "title": "SK hynix Commits 16-High HBM4 Sample Delivery and Advanced DRAM Cleanroom Capex",
+    "pillar": "semiconductors",
+    "secondaryPillars": [
+      "capital-efficiency"
+    ],
+    "tickers": [
+      "000660.KS",
+      "NVDA"
+    ],
+    "hardwareNodes": [
+      "HBM3e",
+      "HBM4"
+    ],
+    "sentiment": "bullish",
+    "executiveSignal": "SK hynix completed engineering validation of 16-high 48GB HBM4 packages built on TSMC advanced logic base dies, achieving 100% capacity pre-allocation for 2027 delivery.",
+    "hardwareBottleneck": "Infrastructure and node analysis indicates: SK hynix announced that all planned 2027 HBM3e and HBM4 volumes have been contracted under advance long-term take-or-pay agreements with key accelerator manufacturers. Operating margins in advanced DRAM exceeded 54%.... Packaging yield and thermal dissipation remain primary governors of deployment velocity.",
+    "capitalEfficiency": "Financial and capital allocation implications: Capex deployment across 000660.KS, NVDA requires sustained revenue expansion to mitigate ROIC compression and manage multi-year balance sheet commitments.",
+    "riskWatch": "1. Customer and foundry concentration risk at tier-1 manufacturing hubs. 2. Depreciation drag if enterprise inference demand normalizes faster than hyperscaler capex commitments.",
+    "sources": [
+      {
+        "title": "SK hynix Commits 16-High HBM4 Sample Delivery and Advanced DRAM Cleanroom Capex",
+        "url": "https://news.skhynix.com/press-release-hbm4-sampling",
+        "publisher": "SK hynix Inc.",
+        "date": "2026-11-10"
+      }
+    ],
+    "updatedAt": 1795258295842,
+    "version": 1
+  },
+  {
+    "id": "brief-20261121-vertiv-holdings-high-density-liquid",
+    "date": "2026-11-16",
+    "title": "Vertiv Holdings High-Density Liquid Cooling and Megawatt Power Distribution Report",
+    "pillar": "power-and-cooling",
+    "secondaryPillars": [
+      "data-centres"
+    ],
+    "tickers": [
+      "VRT"
+    ],
+    "hardwareNodes": [],
+    "sentiment": "neutral",
+    "executiveSignal": "Vertiv reported backlog growth of 34% driven by hyperscaler adoption of direct-to-chip coolant distribution units (CDUs) and modular uninterruptible power systems.",
+    "hardwareBottleneck": "Infrastructure and node analysis indicates: Average power density per AI compute rack transitioned from 35-40kW to 100-120kW with the rollout of modern GPU superclusters, requiring end-to-end fluid loop integration and substation switchgear upgrades.... Packaging yield and thermal dissipation remain primary governors of deployment velocity.",
+    "capitalEfficiency": "Financial and capital allocation implications: Capex deployment across VRT requires sustained revenue expansion to mitigate ROIC compression and manage multi-year balance sheet commitments.",
+    "riskWatch": "1. Customer and foundry concentration risk at tier-1 manufacturing hubs. 2. Depreciation drag if enterprise inference demand normalizes faster than hyperscaler capex commitments.",
+    "sources": [
+      {
+        "title": "Vertiv Holdings High-Density Liquid Cooling and Megawatt Power Distribution Report",
+        "url": "https://investors.vertiv.com/news/high-density-cooling-infrastructure-expansion",
+        "publisher": "Vertiv Holdings Co",
+        "date": "2026-11-16"
+      }
+    ],
+    "updatedAt": 1795258295842,
+    "version": 1
+  },
+  {
+    "id": "brief-20261121-alphabet-inc-tpuv7-deep-dive-optical",
+    "date": "2026-11-08",
+    "title": "Alphabet Inc. TPUv7 Deep Dive: Optical Circuit Switches and Low-Power Interconnect Topologies",
+    "pillar": "semiconductors",
+    "secondaryPillars": [
+      "data-centres",
+      "cloud"
+    ],
+    "tickers": [
+      "GOOGL"
+    ],
+    "hardwareNodes": [
+      "TPUv7",
+      "OCS Topologies"
+    ],
+    "sentiment": "neutral",
+    "executiveSignal": "Google Research published comprehensive architecture telemetry for TPUv7 pods utilizing reconfigurable Optical Circuit Switches (OCS), reporting a 3.1x reduction in cluster networking power.",
+    "hardwareBottleneck": "Infrastructure and node analysis indicates: Google's internal workloads transitioned 78% of foundation model serving to custom TPUv7 instances. The integration of 4x4 OCS topologies eliminates active electrical switch silicon in the spine layer, reducing cluster failure rates.... Packaging yield and thermal dissipation remain primary governors of deployment velocity.",
+    "capitalEfficiency": "Financial and capital allocation implications: Capex deployment across GOOGL requires sustained revenue expansion to mitigate ROIC compression and manage multi-year balance sheet commitments.",
+    "riskWatch": "1. Customer and foundry concentration risk at tier-1 manufacturing hubs. 2. Depreciation drag if enterprise inference demand normalizes faster than hyperscaler capex commitments.",
+    "sources": [
+      {
+        "title": "Alphabet Inc. TPUv7 Deep Dive: Optical Circuit Switches and Low-Power Interconnect Topologies",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/tpuv7-infrastructure-deep-dive",
+        "publisher": "Google Cloud Blog & Research Publications",
+        "date": "2026-11-08"
+      }
+    ],
+    "updatedAt": 1795258295842,
+    "version": 1
+  },
+  {
+    "id": "brief-20261121-meta-reconsiders-2030-net-zero-goal",
+    "date": "2026-11-21",
+    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+    "pillar": "data-centres",
+    "secondaryPillars": [
+      "capital-efficiency"
+    ],
+    "tickers": [
+      "META"
+    ],
+    "hardwareNodes": [],
+    "sentiment": "neutral",
+    "executiveSignal": "Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?.",
+    "hardwareBottleneck": "Infrastructure and node analysis indicates: Meta is \u201cre-evaluating\u201d 2030 sustainability goals. Will others follow?... Packaging yield and thermal dissipation remain primary governors of deployment velocity.",
+    "capitalEfficiency": "Financial and capital allocation implications: Capex deployment across META requires sustained revenue expansion to mitigate ROIC compression and manage multi-year balance sheet commitments.",
+    "riskWatch": "1. Customer and foundry concentration risk at tier-1 manufacturing hubs. 2. Depreciation drag if enterprise inference demand normalizes faster than hyperscaler capex commitments.",
+    "sources": [
+      {
+        "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+        "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+        "publisher": "Ars Technica Technology & Science",
+        "date": "2026-11-21"
+      }
+    ],
+    "updatedAt": 1795258295842,
+    "version": 1
+  },
+  {
+    "id": "brief-20261121-amazon-fights-the-delivery-protectio",
+    "date": "2026-11-21",
+    "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+    "pillar": "semiconductors",
+    "secondaryPillars": [
+      "capital-efficiency"
+    ],
+    "tickers": [
+      "AMZN"
+    ],
+    "hardwareNodes": [
+      "Advanced Packaging",
+      "Accelerator Silicon"
+    ],
+    "sentiment": "neutral",
+    "executiveSignal": "Amazon now uses its shopping platform for political purposes.",
+    "hardwareBottleneck": "Infrastructure and node analysis indicates: Amazon now uses its shopping platform for political purposes.... Packaging yield and thermal dissipation remain primary governors of deployment velocity.",
+    "capitalEfficiency": "Financial and capital allocation implications: Capex deployment across AMZN requires sustained revenue expansion to mitigate ROIC compression and manage multi-year balance sheet commitments.",
+    "riskWatch": "1. Customer and foundry concentration risk at tier-1 manufacturing hubs. 2. Depreciation drag if enterprise inference demand normalizes faster than hyperscaler capex commitments.",
+    "sources": [
+      {
+        "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+        "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+        "publisher": "Ars Technica Technology & Science",
+        "date": "2026-11-21"
+      }
+    ],
+    "updatedAt": 1795258295842,
+    "version": 1
+  }
+]

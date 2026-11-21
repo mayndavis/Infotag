@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0.0",
+  "update_id": "chatgpt-2026-11-21",
+  "provider": "ChatGPT",
+  "publication_date": "2026-11-21",
+  "coverage_period": {
+    "start": "2026-11-18",
+    "end": "2026-11-21"
+  },
+  "update_type": "routine_three_day_research",
+  "status": "published",
+  "version": 1,
+  "topics_covered": [
+    "capital-efficiency",
+    "cloud",
+    "data-centres",
+    "power-and-cooling",
+    "semiconductors"
+  ],
+  "companies_and_organisations_covered": [
+    "AMD",
+    "Alphabet",
+    "Amazon",
+    "Apple",
+    "MRVL",
+    "Meta Platforms",
+    "Microsoft",
+    "NVIDIA",
+    "SK hynix",
+    "TSMC",
+    "Vertiv"
+  ],
+  "source_references": {
+    "count": 9,
+    "count_basis": "Count of independently verified primary and secondary source records cited in the 2026-11-21 research update.",
+    "verification_note": "Every claim is linked to an official corporate release, regulatory filing, or corroborated technology news report."
+  },
+  "report": {
+    "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-21.md",
+    "format": "text/markdown"
+  },
+  "notes": [
+    "Routine three-day research publication covering 2026-11-18 to 2026-11-21.",
+    "Topic and company arrays reflect actual findings in this update and are dynamic.",
+    "Figures and forecasts are snapshot observations and should not be construed as investment guarantees."
+  ]
+}

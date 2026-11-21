@@ -1,0 +1,22 @@
+{
+  "execution_id": "exec-20261121-105110-3689d0ae",
+  "start_time": "2026-11-21T10:51:04.701705+00:00",
+  "completion_time": "2026-11-21T10:51:10.816761+00:00",
+  "duration_seconds": 6.12,
+  "research_period": {
+    "start": "2026-10-31",
+    "end": "2026-11-21"
+  },
+  "sources_examined": 9,
+  "findings_identified": 9,
+  "claims_verified": 17,
+  "reports_generated": 0,
+  "files_published": [],
+  "commit_sha": null,
+  "status": "FAILED",
+  "errors": [
+    "'set' object has no attribute 'extend'"
+  ],
+  "warnings": [],
+  "trigger": "scheduled"
+}

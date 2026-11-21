@@ -17,3 +17,11 @@ Thumbs.db
 *.swp
 .vscode/
 .idea/
+
+# Python and testing caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/

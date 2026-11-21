@@ -1,5 +1,11 @@
 # Change Log
 
+## 2026-11-21 — Routine three-day research update
+
+- Published comprehensive technology market intelligence update covering 2026-11-18 to 2026-11-21.
+- Verified primary sources across SEC filings, official IR disclosures, and technical roadmaps.
+- Generated 4-quadrant investment briefs, fact-check register, and multi-year scenario analysis.
+
 ## 2026-10-31 — Dynamic update architecture
 
 - Replaced the fixed subject-library-first layout with a chronological `Updates/Provider/Date/Data` structure.
