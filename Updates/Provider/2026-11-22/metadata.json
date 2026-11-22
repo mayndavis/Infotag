@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0.0",
+  "update_id": "chatgpt-2026-11-22-interim",
+  "provider": "ChatGPT",
+  "publication_date": "2026-11-22",
+  "coverage_period": {
+    "start": "2026-11-17",
+    "end": "2026-11-20"
+  },
+  "update_type": "interim_material_event_addendum",
+  "status": "published",
+  "version": 1,
+  "topics_covered": [
+    "semiconductors",
+    "AI-export-controls",
+    "technology-equity-market-risk",
+    "cloud-computing"
+  ],
+  "companies_and_organisations_covered": [
+    "NVIDIA",
+    "Alibaba",
+    "Tencent",
+    "TSMC",
+    "United States government"
+  ],
+  "source_references": {
+    "count": 3,
+    "count_basis": "Three directly linked primary or reputable source records listed in the accompanying source register.",
+    "verification_note": "Reuters reports were opened and checked against their article text; NVIDIA financial results were checked against its SEC-filed earnings release."
+  },
+  "reports": [
+    {
+      "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Risk-Addendum-2026-11-22.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/06-Sources-and-References/Source-Register-2026-11-22.md",
+      "format": "text/markdown"
+    }
+  ],
+  "notes": [
+    "Interim addendum issued for material developments before the next routine three-day publication.",
+    "Market-performance figures refer to the 20 November 2026 US trading session and week ending 20 November; US markets were closed on 22 November.",
+    "The reported SEC accounting inquiry is attributed to Reuters and is not represented as an SEC finding.",
+    "This addendum supplements the 21 November publication and does not overwrite it."
+  ]
+}
