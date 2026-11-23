@@ -63,7 +63,7 @@ The distinction matters:
 
 ### Confirmed evidence
 
-Reuters' 23 November analysis reported that European governments and regulated industries are increasingly incorporating digital-sovereignty criteria into cloud procurement. The criteria described include operational autonomy, control of encryption keys, and contractual cloud-exit provisions. Reuters also reported that AWS, Microsoft and Google are adapting through sovereign-cloud offerings and partnerships.
+Reuters' 23 November analysis reported that European governments and regulated industries are increasingly incorporating digital-sovereignty criteria into cloud procurement. Google told Reuters that tenders increasingly assess operational autonomy, control of encryption keys and contractual cloud-exit provisions. Reuters also reported that AWS, Microsoft and Google are adapting through sovereign-cloud offerings and partnerships.
 
 Primary-source context confirms that this is an established policy direction:
 
