@@ -23,6 +23,7 @@
 
 - **2026-11-22:** The automation was enabled and its instructions were updated to include GitHub publishing.
 - **2026-11-22:** A manual interim publication was committed to GitHub and the changed files were read back successfully.
-- **Scheduled end-to-end execution:** Not yet verified. The first scheduled run must be checked before the recurring workflow is described as proven reliable.
+- **2026-11-23:** The first scheduled ChatGPT run completed a source-backed scan, published a material interim update, updated the chronological indexes, and read back the changed GitHub files.
+- **Recurring reliability:** Verified for one scheduled run only. Additional successful runs are required before the recurring workflow can be described as reliably proven.
 
 A research scan, a GitHub commit, and a successful scheduled run are separate outcomes. Record each accurately.
