@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "update_id": "chatgpt-2026-11-23-interim-market-and-source-integrity",
+  "provider": "ChatGPT",
+  "publication_date": "2026-11-23",
+  "coverage_period": {
+    "start": "2026-11-21",
+    "end": "2026-11-23",
+    "start_timestamp": "2026-11-21T13:51:36+03:00",
+    "end_timestamp": "2026-11-23T08:33:54+03:00",
+    "timezone": "Africa/Nairobi"
+  },
+  "update_type": "interim_material_event_and_source_integrity_review",
+  "status": "published",
+  "version": 1,
+  "topics_covered": [
+    "technology-equity-market-risk",
+    "AI-infrastructure-financing",
+    "semiconductor-market-sentiment",
+    "European-cloud-sovereignty",
+    "source-integrity-quality-control"
+  ],
+  "companies_and_organisations_covered": [
+    "NVIDIA",
+    "Microsoft",
+    "Amazon",
+    "Alphabet",
+    "SK hynix",
+    "European Commission",
+    "South Korea Ministry of Economy and Finance"
+  ],
+  "source_references": {
+    "count": 8,
+    "count_basis": "Eight unique opened source records listed in the accompanying source register; four support current-period developments and four provide historical context or source-integrity evidence.",
+    "verification_note": "Current-period market and cloud claims were checked against opened Reuters and Seoul Economic Daily reports. European policy context and the Microsoft/NVIDIA historical filing references were checked against opened primary sources. Intraday market data are not closing prices."
+  },
+  "reports": [
+    {
+      "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Interim-Report-2026-11-23.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/02-Master-Reports/Quality-Control/Source-Integrity-Review-2026-11-23.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/06-Sources-and-References/Source-Register-2026-11-23.md",
+      "format": "text/markdown"
+    }
+  ],
+  "notes": [
+    "Interim publication triggered by material 23 November market developments and a new Reuters report on European cloud-sovereignty procurement; the normal three-day publication interval was not yet due.",
+    "The coverage window begins at the last recorded full scan in Management/Automation/AUTOMATION-STATUS.md.",
+    "No dedicated company report was created because no new company-specific operational announcement or filing was verified in the coverage window.",
+    "The 21 November publication remains unchanged; the separate source-integrity review quarantines unsupported claims pending re-sourcing.",
+    "The 22 November interim addendum's three source records were opened and checked during this scan."
+  ]
+}
