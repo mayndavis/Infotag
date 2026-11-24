@@ -23,6 +23,7 @@ The topic taxonomy is guidance for organizing real findings, not a folder templa
 
 ## Published updates
 
+- **2026-11-24 Interim Update:** [NVIDIA leadership and export controls, Amazon–Decart, and Anthropic Claude Ship](Provider/2026-11-24/README.md)
 - **2026-11-23 Interim Update:** [Technology Market Interim Report and Source Integrity Review](Provider/2026-11-23/README.md)
 - **2026-11-22 Interim Update:** [Technology Market Risk Addendum](Provider/2026-11-22/README.md)
 - **2026-11-21 Update:** [View 2026-11-21 Briefing](Provider/2026-11-21/README.md)

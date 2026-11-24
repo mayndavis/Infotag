@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0.0",
+  "update_id": "chatgpt-2026-11-24-interim-ai-market-nvidia-export-controls-amazon-anthropic",
+  "provider": "ChatGPT",
+  "publication_date": "2026-11-24",
+  "coverage_period": {
+    "start": "2026-11-23",
+    "end": "2026-11-24",
+    "start_timestamp": "2026-11-23T08:33:54+03:00",
+    "end_timestamp": "2026-11-24T08:42:29+03:00",
+    "timezone": "Africa/Nairobi"
+  },
+  "update_type": "interim_material_event_update",
+  "status": "published",
+  "version": 1,
+  "topics_covered": [
+    "NVIDIA-leadership-and-corporate-governance",
+    "advanced-computing-export-controls",
+    "AI-infrastructure-market-repricing",
+    "custom-AI-silicon-and-inference-optimization",
+    "AI-developer-agents-and-code-review"
+  ],
+  "companies_and_organisations_covered": [
+    "NVIDIA",
+    "Amazon",
+    "Decart",
+    "Anthropic",
+    "Alphabet",
+    "TSMC",
+    "SK hynix",
+    "Foxconn",
+    "Alibaba",
+    "Megaspeed International",
+    "Apex Enterprise Solutions",
+    "U.S. Department of Commerce",
+    "Bureau of Industry and Security",
+    "U.S. Department of Justice",
+    "Government of Singapore"
+  ],
+  "report": {
+    "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-24.md",
+    "format": "text/markdown"
+  },
+  "reports": [
+    {
+      "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-24.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/03-Company-Research/NVIDIA/NVIDIA-Update-2026-11-24.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/03-Company-Research/Amazon/Amazon-Update-2026-11-24.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/03-Company-Research/Anthropic/Anthropic-Update-2026-11-24.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/06-Sources-and-References/Source-Register-2026-11-24.md",
+      "format": "text/markdown"
+    }
+  ],
+  "source_references": {
+    "count": 13,
+    "count_basis": "Thirteen unique opened source documents: six primary-source records and seven Reuters articles. This counts documents, not unique publishers or individual factual claims.",
+    "verification_note": "Material factual claims were checked against the opened source text. The BIS public-inspection rule was filed on 2026-11-23 and is scheduled for formal Federal Register publication on 2026-11-25. Amazon did not disclose Decart transaction consideration; the approximately $7.5 billion figure is an unconfirmed Bloomberg report relayed by Reuters."
+  },
+  "notes": [
+    "The 72-hour interval from the 2026-11-21 routine update was not due at the 2026-11-24 08:42:29 EAT scan cutoff; this publication is an interim response to material time-sensitive developments.",
+    "NVIDIA's SEC Form 8-K identifies 2026-11-22 as the date of the board action; the reinstatement was disclosed in a 2026-11-23 filing and press release.",
+    "The Entity List action is a regulatory designation based on diversion risk and a licensing presumption; it is not a criminal conviction or proof that every named entity diverted chips.",
+    "The Singapore investigation into Megaspeed remains ongoing. Singapore's statement that an earlier inquiry found no basis to prosecute Alice Huang is not a finding about the separate U.S. investigation.",
+    "Amazon's purchase agreement remains subject to customary closing conditions, including regulatory clearance. The reported transaction value is not company-confirmed.",
+    "Anthropic describes PR Steward and Claude Approvals as beta features; Claude Approvals operates under repository policy and may route higher-risk changes to human review.",
+    "No new material power, cooling or networking announcement was verified in this coverage window."
+  ]
+}
