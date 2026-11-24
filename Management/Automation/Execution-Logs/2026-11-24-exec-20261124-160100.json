@@ -1,0 +1,83 @@
+{
+  "execution_id": "exec-20261124-160100",
+  "automation": "Infotag Research & Publish",
+  "execution_type": "manual_run_now",
+  "timezone": "Africa/Nairobi",
+  "scan_started_at": "2026-11-24T19:01:00+03:00",
+  "scan_cutoff": "2026-11-24T19:01:00+03:00",
+  "coverage_period": {
+    "start": "2026-11-24T08:42:29+03:00",
+    "end": "2026-11-24T19:01:00+03:00",
+    "timezone": "Africa/Nairobi"
+  },
+  "status": "SUCCESS_SCAN_COMPLETED_PUBLICATION_SKIPPED",
+  "material_developments": [
+    {
+      "topic": "AI-equity-market-reversal",
+      "confirmed_observations": [
+        "Reuters reported NVIDIA shares down more than 5% in early Tuesday trading after a 31.5% rise on Monday.",
+        "The Wall Street Journal live market report timestamped 2026-11-24 10:55 ET reported the Nasdaq down more than 2%, Anthropic shares down 11% and below their IPO price, and NVIDIA giving back part of Monday's gains."
+      ],
+      "interpretation": "The reversal highlights elevated sentiment, governance and AI-capex-return sensitivity. Intraday observations are not closing prices."
+    }
+  ],
+  "excluded_from_current_window": [
+    {
+      "topic": "AI-server-price-increases",
+      "reason": "The corroborating Korea JoongAng Daily report was published at 07:00 KST on 2026-11-24, before the 08:42:29 EAT previous-scan cutoff; it is not new to this coverage window."
+    },
+    {
+      "topic": "Microsoft-Intel-EMIB-collaboration",
+      "reason": "Official company announcements were dated 2026-11-18, before the current coverage window."
+    },
+    {
+      "topic": "AMD-Taalas-acquisition",
+      "reason": "AMD's official completion announcement was dated 2026-11-17, before the current coverage window."
+    }
+  ],
+  "source_review": {
+    "documents_opened": 5,
+    "current_window_sources_supporting_material_observations": 2,
+    "primary_sources_reviewed_for_context": 2,
+    "pre_window_reporting_excluded": 1,
+    "sources": [
+      {
+        "publisher": "Reuters",
+        "date": "2026-11-24",
+        "url": "https://www.reuters.com/business/retail-consumer/nvidia-slips-investors-assess-risks-surrounding-huangs-return-ceo-2026-11-24/"
+      },
+      {
+        "publisher": "The Wall Street Journal",
+        "date": "2026-11-24",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026"
+      },
+      {
+        "publisher": "NVIDIA Investor Relations",
+        "date": "2026-11-23",
+        "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx"
+      },
+      {
+        "publisher": "U.S. Securities and Exchange Commission",
+        "date": "2026-11-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm"
+      },
+      {
+        "publisher": "Korea JoongAng Daily",
+        "date": "2026-11-24",
+        "url": "https://www.koreajoongangdaily.com/business/ai-server-buyers-face-surprise-price-hikes-after-signing-contracts-as-chip-prices-rise/12986598"
+      }
+    ]
+  },
+  "publication": {
+    "status": "SKIPPED",
+    "reason": "The required Updates/Provider/2026-11-24 publication-date folder already exists from the earlier scan today. Creating another folder for the same publication date or overwriting the existing update would violate the repository's dated-history rules. The current scan did not establish a new company operating announcement warranting a distinct research report.",
+    "research_files_created": [],
+    "research_files_updated": [],
+    "research_commit_sha": null
+  },
+  "repository": {
+    "full_name": "mayndavis/Infotag",
+    "default_branch": "main",
+    "target_date_folder_exists": true
+  }
+}
