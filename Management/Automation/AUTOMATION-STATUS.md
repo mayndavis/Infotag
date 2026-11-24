@@ -2,17 +2,17 @@
 
 - **Research cadence:** Daily scans; routine GitHub publications follow the 72-hour reporting interval, with interim publications reserved for material time-sensitive developments.
 - **Execution engines:** ChatGPT Automations daily scan (Africa/Nairobi); GitHub Actions also runs its repository workflow daily at 06:00 EAT (03:00 UTC).
-- **Last scan cutoff:** `2026-11-24 08:42:29 EAT`
+- **Last scan cutoff:** `2026-11-24 19:01:00 EAT`
 - **Publication completed:** `2026-11-24 08:47:29 EAT`
-- **Last execution ID:** `exec-20261124-054229`
-- **Last execution status:** `SUCCESS — scan, GitHub commit and read-back verified`
-- **Last research period covered:** `2026-11-23 08:33:54 EAT to 2026-11-24 08:42:29 EAT`
-- **Source records opened:** `13 unique documents (6 primary, 7 Reuters)`
-- **Material developments identified:** `4`
-- **Reports generated:** `4 (1 master report, 3 company reports)`
+- **Last execution ID:** `exec-20261124-160100`
+- **Last execution status:** `SUCCESS — scan completed; research publication skipped because the 2026-11-24 publication-date folder already exists; execution log committed and read-back verified`
+- **Last research period covered:** `2026-11-24 08:42:29 EAT to 2026-11-24 19:01:00 EAT`
+- **Source records opened:** `5 documents screened; 2 current-window independent sources support the market observations`
+- **Material developments identified:** `1 current-window market development; no new company operating announcement verified`
+- **Reports generated:** `0; research publication skipped because today's dated folder already exists`
 - **Claims verified:** Material factual claims checked individually; no aggregate claim count reported.
-- **New files published:** `7`
-- **Existing chronological files updated:** `3`
+- **New research files published in this run:** `0`
+- **Existing chronological files updated in this run:** `0`
 - **Last publication commit SHA:** `7cbbede7283fcfb98036bc58eff4ca32c82a8954`
 
 ## Operational Verification
@@ -27,6 +27,7 @@
 
 | Execution ID | Scan cutoff / timestamp | Status | Research period | Publication commit SHA | Duration |
 |---|---|---|---|---|---|
+| `exec-20261124-160100` | 2026-11-24T19:01:00+03:00 | **SUCCESS — scan only; publication skipped** | 2026-11-24 08:42:29..19:01:00 EAT | `N/A — existing date folder; no research files changed` | Not measured |
 | `exec-20261124-054229` | 2026-11-24T08:42:29+03:00 | **SUCCESS** | 2026-11-23 08:33:54..2026-11-24 08:42:29 EAT | `7cbbede7283fcfb98036bc58eff4ca32c82a8954` | Not measured |
 | `exec-20261121-105136-3244bb0d` | 2026-11-21T10:51:36Z | **SUCCESS** | 2026-11-18..2026-11-21 | `dry-run-validated` | 6.54s |
 | `exec-20261121-105122-6c2e21ce` | 2026-11-21T10:51:22Z | **SKIPPED** | 2026-11-21..2026-11-21 | `N/A` | 0.0s |
