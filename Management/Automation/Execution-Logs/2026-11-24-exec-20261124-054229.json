@@ -1,0 +1,45 @@
+{
+  "execution_id": "exec-20261124-054229",
+  "scan_cutoff": "2026-11-24T08:42:29+03:00",
+  "publication_completed_at": "2026-11-24T08:47:29+03:00",
+  "research_period": {
+    "start": "2026-11-23T08:33:54+03:00",
+    "end": "2026-11-24T08:42:29+03:00",
+    "timezone": "Africa/Nairobi"
+  },
+  "sources_examined": 13,
+  "source_composition": {
+    "primary_source_documents": 6,
+    "reuters_documents": 7
+  },
+  "findings_identified": 4,
+  "reports_generated": 4,
+  "files_published": [
+    "Updates/Provider/2026-11-24/README.md",
+    "Updates/Provider/2026-11-24/metadata.json",
+    "Updates/Provider/2026-11-24/Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-24.md",
+    "Updates/Provider/2026-11-24/Data/03-Company-Research/NVIDIA/NVIDIA-Update-2026-11-24.md",
+    "Updates/Provider/2026-11-24/Data/03-Company-Research/Amazon/Amazon-Update-2026-11-24.md",
+    "Updates/Provider/2026-11-24/Data/03-Company-Research/Anthropic/Anthropic-Update-2026-11-24.md",
+    "Updates/Provider/2026-11-24/Data/06-Sources-and-References/Source-Register-2026-11-24.md",
+    "Updates/README.md",
+    "Management/Indexes/UPDATE-INDEX.md",
+    "Management/Change-Log/CHANGELOG.md"
+  ],
+  "commit_sha": "7cbbede7283fcfb98036bc58eff4ca32c82a8954",
+  "verification": {
+    "metadata_json_parsed": true,
+    "new_and_changed_files_read_back": 10,
+    "all_report_paths_present": true,
+    "source_register_count_matches_metadata": true,
+    "source_documents_opened": 13,
+    "material_factual_claims_checked": true
+  },
+  "warnings": [
+    "The normal 72-hour interval from the 2026-11-21 routine update had not elapsed at scan cutoff; this was a material-event interim publication.",
+    "Amazon did not disclose the Decart transaction value; the approximately $7.5 billion figure is an unconfirmed report relayed by Reuters.",
+    "The BIS public-inspection rule was scheduled for formal Federal Register publication on 2026-11-25."
+  ],
+  "status": "SUCCESS",
+  "trigger": "scheduled_daily_scan_with_material_event_interim_publication"
+}

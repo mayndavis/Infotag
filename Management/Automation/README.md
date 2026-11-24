@@ -24,6 +24,7 @@
 - **2026-11-22:** The automation was enabled and its instructions were updated to include GitHub publishing.
 - **2026-11-22:** A manual interim publication was committed to GitHub and the changed files were read back successfully.
 - **2026-11-23:** The first scheduled ChatGPT run completed a source-backed scan, published a material interim update, updated the chronological indexes, and read back the changed GitHub files.
-- **Recurring reliability:** Verified for one scheduled run only. Additional successful runs are required before the recurring workflow can be described as reliably proven.
+- **2026-11-24:** The second scheduled ChatGPT run completed a source-backed scan and interim publication. Thirteen unique source documents were opened, seven new research files were published, three chronological files were updated, and all ten changed files were fetched again from GitHub. Publication commit: `7cbbede7283fcfb98036bc58eff4ca32c82a8954`.
+- **Recurring reliability:** Two consecutive scheduled runs have been verified. Longer-term reliability remains to be established.
 
 A research scan, a GitHub commit, and a successful scheduled run are separate outcomes. Record each accurately.
