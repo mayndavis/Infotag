@@ -1,5 +1,13 @@
 # Change Log
 
+## 2026-11-25 — Routine technology-market update
+
+- Published the routine update covering 2026-11-24 19:01:00 EAT to 2026-11-25 08:49:02 EAT after the 72-hour reporting interval elapsed.
+- Added a master report, Dell company update and AI-infrastructure capital/power report, supported by opened Dell primary disclosures and Reuters reporting.
+- Recorded Dell's fiscal Q3 2027 results, AI-server backlog and revised guidance; attributed Goldman Sachs power-capacity estimates; and qualified credit-market risk observations.
+- Added a source register with six opened source documents and explicit limits on secondary-source claims.
+- Updated chronological indexes and automation records without overwriting historical research.
+
 ## 2026-11-24 — Interim source-verified technology update
 
 - Published a new dated update covering 2026-11-23 08:33:54 EAT to 2026-11-24 08:42:29 EAT.
@@ -15,8 +23,8 @@
 
 ## 2026-10-31 — Dynamic update architecture
 
-- Replaced the fixed subject-library-first layout with a chronological `Updates/Provider/Date/Data` structure.
-- Defined `Data` as dynamic: only topics supported by material findings are created.
-- Added `Management/` for durable governance and operating documentation.
+- Replaced the fixed subject-library-first layout with a chronological Updates/Provider/Date/Data structure.
+- Defined Data as dynamic: only topics supported by material findings are created.
+- Added Management/ for durable governance and operating documentation.
 - Moved the October 2026 technology-market report into the initial dated update.
 - Clarified that routine updates should normally cover three days; the initial report retains its original 22–31 October coverage window.
