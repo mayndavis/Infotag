@@ -7,7 +7,7 @@
 - **Cadence:** Daily scan; routine GitHub publications follow the repository's normal three-day cadence, with interim publications reserved for material time-sensitive events.
 - **Timezone:** Africa/Nairobi
 - **Status:** Enabled on 2026-11-22.
-- **Delivery target:** `mayndavis/Infotag`, default branch.
+- **Delivery target:** mayndavis/Infotag, default branch.
 - **Research scope:** AI, semiconductors, cloud, data centres, networking, power and cooling; prioritise NVIDIA, Microsoft, Amazon, Alphabet, Meta, Broadcom, SK hynix, Vertiv, AMD, Intel, TSMC, Marvell and Anthropic.
 
 ## Publishing safeguards
@@ -24,7 +24,8 @@
 - **2026-11-22:** The automation was enabled and its instructions were updated to include GitHub publishing.
 - **2026-11-22:** A manual interim publication was committed to GitHub and the changed files were read back successfully.
 - **2026-11-23:** The first scheduled ChatGPT run completed a source-backed scan, published a material interim update, updated the chronological indexes, and read back the changed GitHub files.
-- **2026-11-24:** The second scheduled ChatGPT run completed a source-backed scan and interim publication. Thirteen unique source documents were opened, seven new research files were published, three chronological files were updated, and all ten changed files were fetched again from GitHub. Publication commit: `7cbbede7283fcfb98036bc58eff4ca32c82a8954`.
-- **Recurring reliability:** Two consecutive scheduled runs have been verified. Longer-term reliability remains to be established.
+- **2026-11-24:** The second scheduled ChatGPT run completed a source-backed scan and interim publication. Thirteen unique source documents were opened, seven new research files were published, three chronological files were updated, and all ten changed files were fetched again from GitHub. Publication commit: 7cbbede7283fcfb98036bc58eff4ca32c82a8954.
+- **2026-11-25:** The third scheduled run completed the daily scan and due routine publication. Six unique source documents were opened (two primary Dell disclosures and four Reuters reports). Six new research files were published: a README, metadata, master report, Dell report, AI-infrastructure report and source register. Three chronological files were updated, an execution log was created, and the automation status was updated. Research publication commit: 01d01a159a5f204b7df9f5934d8547b88161b852. Final read-back verification is recorded in the execution status.
+- **Recurring reliability:** Three consecutive scheduled runs have completed successfully. This is still a short history and does not establish long-term reliability.
 
 A research scan, a GitHub commit, and a successful scheduled run are separate outcomes. Record each accurately.
