@@ -4,11 +4,11 @@ This is the chronological record of research updates produced by the repository'
 
 ## Structure
 
-`Updates/Provider/YYYY-MM-DD/Data/`
+Updates/Provider/YYYY-MM-DD/Data/
 
-- `Provider` is a stable directory name. The actual provider identity is recorded in the provider and update metadata files, not encoded into the directory name.
+- Provider is a stable directory name. The actual provider identity is recorded in the provider and update metadata files, not encoded into the directory name.
 - Each date directory is named for the date the update was published.
-- `Data` contains only information actually discovered and considered material for that reporting interval. It is deliberately dynamic.
+- Data contains only information actually discovered and considered material for that reporting interval. It is deliberately dynamic.
 
 ## Dynamic data rules
 
@@ -23,6 +23,7 @@ The topic taxonomy is guidance for organizing real findings, not a folder templa
 
 ## Published updates
 
+- **2026-11-25 Update:** [Dell AI-server results, data-centre power and AI infrastructure credit risk](Provider/2026-11-25/README.md)
 - **2026-11-24 Interim Update:** [NVIDIA leadership and export controls, Amazon–Decart, and Anthropic Claude Ship](Provider/2026-11-24/README.md)
 - **2026-11-23 Interim Update:** [Technology Market Interim Report and Source Integrity Review](Provider/2026-11-23/README.md)
 - **2026-11-22 Interim Update:** [Technology Market Risk Addendum](Provider/2026-11-22/README.md)
