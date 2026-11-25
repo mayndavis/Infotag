@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0.0",
+  "update_id": "chatgpt-2026-11-25-ai-infrastructure-dell-power-credit",
+  "provider": "ChatGPT",
+  "publication_date": "2026-11-25",
+  "coverage_period": {
+    "start": "2026-11-24",
+    "end": "2026-11-25",
+    "start_timestamp": "2026-11-24T19:01:00+03:00",
+    "end_timestamp": "2026-11-25T08:49:02+03:00",
+    "timezone": "Africa/Nairobi"
+  },
+  "update_type": "routine_three_day_cycle",
+  "status": "published",
+  "version": 1,
+  "topics_covered": [
+    "Dell-fiscal-2027-third-quarter-results",
+    "AI-server-demand-and-backlog",
+    "AI-infrastructure-capital-intensity",
+    "US-data-center-power-capacity",
+    "AI-infrastructure-credit-risk",
+    "data-center-water-use-methodology"
+  ],
+  "companies_and_organisations_covered": [
+    "Dell Technologies",
+    "NVIDIA",
+    "Goldman Sachs",
+    "Alphabet",
+    "Oracle",
+    "CoreWeave",
+    "SoftBank Group",
+    "Enverus Intelligence Research"
+  ],
+  "report": {
+    "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-25.md",
+    "format": "text/markdown"
+  },
+  "reports": [
+    {
+      "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-25.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/03-Company-Research/Dell/Dell-Update-2026-11-25.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/04-Industry-Analysis/AI-Infrastructure/AI-Infrastructure-Capital-and-Power-2026-11-25.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/06-Sources-and-References/Source-Register-2026-11-25.md",
+      "format": "text/markdown"
+    }
+  ],
+  "source_references": {
+    "count": 6,
+    "count_basis": "Six unique source documents opened: two primary Dell company/regulatory documents and four Reuters reports. The count is documents, not independent publishers or individual claims.",
+    "verification_note": "Dell financial results and guidance were checked against its investor-relations release and Form 8-K exhibit. Goldman Sachs estimates and CDS market observations are attributed to Reuters reporting and are not presented as directly retrieved primary research. The Enverus water comparison is secondary-source context only because the underlying report was not retrieved."
+  },
+  "notes": [
+    "The routine 72-hour interval from the 2026-11-21 publication had elapsed by the scan cutoff; the interval calculation is based on the last routine publication timestamp recorded in the automation status.",
+    "Dell's fiscal third quarter ended 2026-10-30. Fiscal-quarter results are historical actuals; FY27 and Q4 figures are company guidance.",
+    "Dell's $132.3 billion AI backlog is a company-reported order/backlog measure, not recognised revenue or guaranteed future cash flow.",
+    "Dell's free cash flow is a non-GAAP measure. The report distinguishes it from adjusted free cash flow and from cash flow from operations.",
+    "The additional 52 GW data-centre capacity figure is a Goldman Sachs estimate reported by Reuters, not a realised capacity figure or a company commitment.",
+    "CDS spreads are market prices for credit protection. They indicate market risk pricing and are not actual default events. The CoreWeave five-year default probability cited by Reuters is a market-data-model estimate, not a prediction of certain default.",
+    "The Enverus water-use comparison is not treated as a definitive measure of total data-centre water use or local water stress.",
+    "No current valuation multiple or price target is asserted because a timestamp-aligned valuation dataset was not assembled for this scan.",
+    "No new material operating announcement or filing was verified for most of the named priority companies in this exact coverage window."
+  ]
+}
