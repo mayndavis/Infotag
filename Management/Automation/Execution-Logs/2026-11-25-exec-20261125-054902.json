@@ -1,0 +1,140 @@
+{
+  "execution_id": "exec-20261125-054902",
+  "automation": "Infotag Research & Publish",
+  "execution_type": "scheduled_chatgpt_scan",
+  "timezone": "Africa/Nairobi",
+  "scan_started_at": "2026-11-25T08:49:02+03:00",
+  "scan_cutoff": "2026-11-25T08:49:02+03:00",
+  "coverage_period": {
+    "start": "2026-11-24T19:01:00+03:00",
+    "end": "2026-11-25T08:49:02+03:00",
+    "timezone": "Africa/Nairobi",
+    "duration": "13 hours, 48 minutes, 2 seconds"
+  },
+  "status": "SUCCESS_PUBLISHED",
+  "cadence": {
+    "routine_interval_hours": 72,
+    "elapsed_since_last_routine_publication": "90 hours, 57 minutes, 26 seconds",
+    "decision": "Routine publication due"
+  },
+  "material_developments": [
+    {
+      "topic": "Dell fiscal Q3 FY2027 AI infrastructure results",
+      "evidence": "Dell IR release and SEC-filed exhibit report $54.937 billion revenue, $22.031 billion AI-Optimized Server revenue, $60.2 billion AI-server orders, $132.3 billion AI backlog and increased FY27 guidance.",
+      "interpretation": "Strong supplier-level evidence that AI infrastructure demand is converting into reported revenue. Backlog remains subject to delivery, customer funding, power and component constraints."
+    },
+    {
+      "topic": "US data-center power capacity growth",
+      "evidence": "Reuters reported Goldman Sachs estimate that an additional 52 GW of US data-center power capacity could come online in 2028 and that year-to-date capacity and demand had risen nearly 30%.",
+      "interpretation": "Power generation, grid access, electrical equipment and cooling remain material infrastructure constraints. The figures are analyst estimates, not realised capacity."
+    },
+    {
+      "topic": "AI infrastructure credit-market risk",
+      "evidence": "Reuters reported record CDS spreads for Oracle, Alphabet, SpaceX and CoreWeave; SoftBank at 501 bps, Oracle at 356 bps and CoreWeave at 1,314 bps.",
+      "interpretation": "Credit markets are scrutinising debt-funded AI infrastructure, circular financing and cash-flow timing. CDS spreads and modelled default probabilities are risk-pricing indicators, not defaults."
+    }
+  ],
+  "contextual_items": [
+    {
+      "topic": "Enverus data-center water-use comparison",
+      "treatment": "Secondary-source context only. Reuters report was opened, but the underlying Enverus report was not retrieved. Not used as a definitive water-use benchmark."
+    }
+  ],
+  "excluded_from_current_window": [
+    {
+      "topic": "Amazon-Decart agreement",
+      "reason": "Announced on 2026-11-23 and covered in the 2026-11-24 publication; outside the current coverage window."
+    },
+    {
+      "topic": "Open-weight AI policy debate",
+      "reason": "A Reuters article was screened, but no new policy action or primary company disclosure was verified in the current window."
+    },
+    {
+      "topic": "Priority-company operating announcements",
+      "reason": "No new material operating announcement or filing was verified for most of NVIDIA, Microsoft, Amazon, Alphabet, Meta, Broadcom, SK hynix, Vertiv, AMD, Intel, TSMC, Marvell and Anthropic in the exact coverage window. Alphabet credit-market observations and the Dell/NVIDIA supply-chain read-through are separately disclosed."
+    }
+  ],
+  "source_review": {
+    "documents_opened": 6,
+    "primary_company_or_regulatory_documents": 2,
+    "independent_reporting_documents": 4,
+    "sources": [
+      {
+        "id": "S1",
+        "publisher": "Dell Technologies Investor Relations",
+        "date": "2026-11-24",
+        "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
+      },
+      {
+        "id": "S2",
+        "publisher": "Dell Technologies SEC Form 8-K Exhibit 99.1",
+        "date": "2026-11-24",
+        "url": "https://investors.delltechnologies.com/sec-filings/all-sec-filings/content/0001571996-26-000050/exhibit991earnings8kq3fy27.htm"
+      },
+      {
+        "id": "S3",
+        "publisher": "Reuters",
+        "date": "2026-11-24",
+        "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/"
+      },
+      {
+        "id": "S4",
+        "publisher": "Reuters",
+        "date": "2026-11-25",
+        "url": "https://www.reuters.com/business/energy/goldman-says-us-data-center-boom-through-2028-will-lift-power-gas-demand-2026-11-25/"
+      },
+      {
+        "id": "S5",
+        "publisher": "Reuters",
+        "date": "2026-11-25",
+        "url": "https://www.reuters.com/business/media-telecom/global-markets-ai-cds-urgent-2026-11-25/"
+      },
+      {
+        "id": "S6",
+        "publisher": "Reuters",
+        "date": "2026-11-24",
+        "url": "https://www.reuters.com/technology/ai-consumes-less-water-per-dollar-spent-than-almond-milk-or-golf-enverus-report-2026-11-24/"
+      }
+    ],
+    "limitations": [
+      "The underlying Goldman Sachs research note was not directly retrieved; the estimate is attributed to Reuters.",
+      "The underlying Enverus water-use report was not directly retrieved; the comparison is secondary-source context only.",
+      "No current timestamp-aligned valuation dataset was assembled."
+    ]
+  },
+  "publication": {
+    "status": "PUBLISHED",
+    "publication_date": "2026-11-25",
+    "publication_type": "routine_three_day_cycle",
+    "research_files_created": [
+      "Updates/Provider/2026-11-25/README.md",
+      "Updates/Provider/2026-11-25/metadata.json",
+      "Updates/Provider/2026-11-25/Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-25.md",
+      "Updates/Provider/2026-11-25/Data/03-Company-Research/Dell/Dell-Update-2026-11-25.md",
+      "Updates/Provider/2026-11-25/Data/04-Industry-Analysis/AI-Infrastructure/AI-Infrastructure-Capital-and-Power-2026-11-25.md",
+      "Updates/Provider/2026-11-25/Data/06-Sources-and-References/Source-Register-2026-11-25.md"
+    ],
+    "chronological_files_updated": [
+      "Management/Indexes/UPDATE-INDEX.md",
+      "Updates/README.md",
+      "Management/Change-Log/CHANGELOG.md"
+    ],
+    "automation_files_updated": [
+      "Management/Automation/README.md",
+      "Management/Automation/AUTOMATION-STATUS.md"
+    ],
+    "execution_log_path": "Management/Automation/Execution-Logs/2026-11-25-exec-20261125-054902.json",
+    "research_publication_commit_sha": "01d01a159a5f204b7df9f5934d8547b88161b852"
+  },
+  "repository": {
+    "full_name": "mayndavis/Infotag",
+    "default_branch": "main",
+    "target_date_folder_absent_before_run": true,
+    "target_date_folder_created": true
+  },
+  "verification": {
+    "commit_confirmed": true,
+    "readback_pending_at_log_creation": true,
+    "expected_changed_paths": 12
+  }
+}
