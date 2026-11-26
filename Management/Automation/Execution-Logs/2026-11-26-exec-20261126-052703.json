@@ -1,0 +1,72 @@
+{
+  "execution_id": "exec-20261126-052703",
+  "provider": "ChatGPT",
+  "repository": "mayndavis/Infotag",
+  "branch": "main",
+  "scan_status": "completed",
+  "publication_status": "published",
+  "publication_type": "interim_material_event_update",
+  "scan_cutoff": "2026-11-26T08:27:03+03:00",
+  "scan_cutoff_utc": "2026-11-26T05:27:03Z",
+  "coverage_window": {
+    "start": "2026-11-25T08:49:02+03:00",
+    "start_utc": "2026-11-25T05:49:02Z",
+    "end": "2026-11-26T08:27:03+03:00",
+    "end_utc": "2026-11-26T05:27:03Z",
+    "timezone": "Africa/Nairobi"
+  },
+  "routine_72_hour_interval_due": false,
+  "next_routine_publication_due": "2026-11-28T08:49:02+03:00",
+  "interim_publication_trigger": [
+    "S&P Global Ratings placed NVIDIA's AA rating on CreditWatch Negative.",
+    "AI-linked equities experienced a sharp intraday sell-off and partial recovery, with infrastructure financing and return-on-capital concerns prominent."
+  ],
+  "material_themes": [
+    "NVIDIA governance, credit rating and export-control scrutiny",
+    "AI equity repricing and debt-funded infrastructure risk",
+    "Australian official data-centre capex and SATS air-cargo demand",
+    "Malaysia data-centre pipeline exposure to export controls",
+    "AI companion safety and app-store distribution risk"
+  ],
+  "source_documents": {
+    "total": 13,
+    "primary_or_official": 5,
+    "independent_reporting": 8,
+    "pre_window_background_sources": 2,
+    "register_path": "Updates/Provider/2026-11-26/Data/06-Sources-and-References/Source-Register-2026-11-26.md"
+  },
+  "research_files_created": [
+    "Updates/Provider/2026-11-26/README.md",
+    "Updates/Provider/2026-11-26/metadata.json",
+    "Updates/Provider/2026-11-26/Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-26.md",
+    "Updates/Provider/2026-11-26/Data/03-Company-Research/NVIDIA/NVIDIA-Update-2026-11-26.md",
+    "Updates/Provider/2026-11-26/Data/04-Industry-Analysis/AI-Infrastructure/AI-Infrastructure-Demand-and-Capital-Discipline-2026-11-26.md",
+    "Updates/Provider/2026-11-26/Data/04-Industry-Analysis/AI-Safety-and-Distribution/AI-Companion-Safety-and-App-Distribution-2026-11-26.md",
+    "Updates/Provider/2026-11-26/Data/06-Sources-and-References/Source-Register-2026-11-26.md"
+  ],
+  "existing_files_updated": [
+    "Management/Indexes/UPDATE-INDEX.md",
+    "Updates/README.md",
+    "Management/Change-Log/CHANGELOG.md",
+    "Management/Automation/README.md"
+  ],
+  "execution_log_path": "Management/Automation/Execution-Logs/2026-11-26-exec-20261126-052703.json",
+  "research_publication_commit_sha": "39c2aa0c09fc437fa282d0add3a9a20b7bf30c87",
+  "verification": {
+    "status": "pending_read_back",
+    "metadata_json_parse": "pending",
+    "report_paths": "pending",
+    "source_urls": "opened during research; pending final repository check",
+    "historical_files_overwritten": false
+  },
+  "limitations": [
+    "S&P's ratings-actions page is dynamically rendered; the official indexed action row confirmed AA / CreditWatch Negative, while Reuters provided the rationale.",
+    "US intelligence reporting relies on people familiar with classified briefings and does not establish espionage or wrongdoing.",
+    "TIME's historical ownership findings do not establish current state ownership, current control or unlawful conduct.",
+    "The single-source estimate that up to half of future Southeast Asian capacity may not proceed is unverified and is not treated as a base case.",
+    "The ABS information-media-and-telecommunications category is broader than data centres.",
+    "SATS is diversified and its cargo growth is not wholly attributable to AI.",
+    "MiniMax's current Talkie revenue share is not disclosed; the reported 2024 contribution is historical.",
+    "No timestamp-aligned valuation dataset was assembled."
+  ]
+}
