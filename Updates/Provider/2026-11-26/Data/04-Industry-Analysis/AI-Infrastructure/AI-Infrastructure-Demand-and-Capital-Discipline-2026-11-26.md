@@ -5,9 +5,9 @@
 
 ## 1. Market repricing is testing returns, not just demand
 
-Reuters reported a sharp intraday sell-off in AI-linked equities on 25 November, followed by a partial recovery. The Nasdaq-100 briefly approached a 20% drawdown from its October record but closed down 0.6%. NVIDIA closed down 3.9%; Alphabet closed down 2.1%; Broadcom recovered to finish roughly flat. CoreWeave's 2031 bond yield approached 18%, according to Tradeweb data cited by Reuters. [S4]
+Reuters and AP reported a sharp intraday sell-off in AI-linked equities on 25 November, followed by a partial recovery into the close. AP independently confirms the main closing observations. The Nasdaq Composite fell as much as 4.6% intraday and closed down 0.6%; the S&P 500 closed down 0.3% and the Dow rose 0.3%. NVIDIA closed down 3.9%, Microsoft down 1.2%, Meta rose 3.4%, Broadcom ended down 0.1%, and SK hynix fell 11.1%. Reuters separately reported that the Nasdaq-100 briefly approached a 20% drawdown from its October record; AP did not independently confirm that threshold. CoreWeave's 2031 bond yield approached 18%, according to Tradeweb data cited by Reuters. [S4]
 
-Reuters linked the market pressure to several factors, including the cost of AI infrastructure, debt-funded expansion, uncertainty over cash returns, proposed tariffs and inflation data. It did not attribute the entire market move to one cause. [S4]
+Reuters and AP linked the market pressure to overlapping factors, including AI infrastructure costs, debt-funded expansion, uncertainty over cash returns, proposed tariffs and inflation. Neither report establishes a single cause for the entire market move. [S4, S14]
 
 **Interpretation:** the market is increasingly distinguishing between the existence of AI demand and the returns earned on the capital used to serve it. A company can have strong orders and still disappoint investors if financing costs, depreciation, power expense or utilisation make returns inadequate.
 
