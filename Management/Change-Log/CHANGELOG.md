@@ -1,5 +1,14 @@
 # Change Log
 
+## 2026-11-26 — Interim technology-market update
+
+- Published an interim update covering 2026-11-25 08:49:02 EAT to 2026-11-26 08:27:03 EAT; the normal 72-hour publication interval had not elapsed.
+- Triggered the interim publication on NVIDIA's S&P CreditWatch Negative action and the broad AI-market repricing, with additional verified findings on US intelligence reporting, Australian data-centre capex, SATS air-cargo demand, Malaysian export-control exposure and AI companion app distribution.
+- Added a master report, NVIDIA company report, AI-infrastructure report, AI-safety report, metadata, README and 13-document source register.
+- Used five primary/official records and eight independent reporting documents; two primary documents were pre-window background sources.
+- Updated the chronological update index, Updates README and automation records without overwriting historical research.
+- Qualified anonymous-source, intelligence and allegation-based claims; no 100% verification claim was made.
+
 ## 2026-11-25 — Routine technology-market update
 
 - Published the routine update covering 2026-11-24 19:01:00 EAT to 2026-11-25 08:49:02 EAT after the 72-hour reporting interval elapsed.
