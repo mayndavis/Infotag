@@ -73,16 +73,24 @@
     "changelog": "f4749cad374ee2600814d69aae55e4d7b51d19eb",
     "automation_readme": "bb44b81d451279721488df4c95b3bcae0b93571d",
     "automation_status": "d8ddd548a652282169a0a900501259f22058483e",
-    "final_repository_head_before_log_finalization": "d8ddd548a652282169a0a900501259f22058483e"
+    "final_repository_head_before_log_finalization": "49f76903775a2c37c01aa5a1bc51d536a72f82a9",
+    "microsoft_supplement_final_content": "49f76903775a2c37c01aa5a1bc51d536a72f82a9",
+    "execution_log_initial_create": "b4949bc035893e870677f028a5e7d6b3717d27ba"
   },
   "verification": {
-    "status": "pending_final_read_back",
-    "metadata_json_parse": "pending",
-    "report_paths": "pending",
-    "README_links": "pending",
-    "source_urls": "both source documents opened and checked during research",
-    "changed_paths_fetched": "pending_final_log_write",
-    "historical_files_overwritten": false
+    "status": "passed_after_final_log_write",
+    "metadata_json_parse": "passed; version 2 and source count 16",
+    "report_paths": "passed; all 7 paths listed in metadata.reports were fetched successfully from GitHub",
+    "README_links": "passed; supplement and supplemental source-register links resolve to existing repository paths; report's relative links point to the 25 November update and correction source register",
+    "source_register": "passed; two source entries, one Reuters report and one UK Parliament Hansard record",
+    "source_urls": "passed; both direct source documents were opened and checked during research",
+    "changed_paths_fetched": "8 of 8 changed paths fetched from GitHub after final log write",
+    "historical_files_overwritten": false,
+    "notes": [
+      "The original 25 November master report and source register were not modified.",
+      "No new daily research folder was created; the retrospective supplement was added to the existing 26 November publication.",
+      "The current 08:27:03–08:54:41 EAT scan window produced no new material developments."
+    ]
   },
   "changed_paths": [
     "Updates/Provider/2026-11-26/Data/03-Company-Research/Microsoft/Microsoft-Service-Reliability-Coverage-Supplement-2026-11-26.md",
