@@ -13,7 +13,7 @@ Reuters linked the market pressure to several factors, including the cost of AI 
 
 ## 2. Australia: official data shows a sharp rise in data-centre-related equipment spending
 
-The Australian Bureau of Statistics reported that private new capital expenditure rose 12.2% in the September quarter of 2026 and was 18.6% higher year on year. Equipment, plant and machinery rose 23.1% quarter on quarter. [S12, S13]
+The Australian Bureau of Statistics reported that private new capital expenditure, in seasonally adjusted chain-volume terms, rose 12.2% in the September quarter of 2026 and was 18.6% higher year on year. Equipment, plant and machinery rose 23.1% quarter on quarter. [S12, S13]
 
 The information media and telecommunications industry recorded an 86.7% quarterly increase to a record level. Within that industry, the equipment and machinery component rose 183.5% quarter on quarter and 206.7% year on year. ABS said the increase was driven in part by businesses investing in data-centre equipment, including server racks and processing equipment. The industry category is broader than data centres and must not be treated as a pure data-centre spending total. [S12, S13]
 
