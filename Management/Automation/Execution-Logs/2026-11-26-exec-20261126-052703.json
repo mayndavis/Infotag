@@ -29,11 +29,12 @@
     "AI companion safety and app-store distribution risk"
   ],
   "source_documents": {
-    "total": 13,
+    "total": 14,
     "primary_or_official": 5,
-    "independent_reporting": 8,
+    "independent_reporting": 9,
     "pre_window_background_sources": 2,
-    "register_path": "Updates/Provider/2026-11-26/Data/06-Sources-and-References/Source-Register-2026-11-26.md"
+    "register_path": "Updates/Provider/2026-11-26/Data/06-Sources-and-References/Source-Register-2026-11-26.md",
+    "count_note": "Added AP's post-close report to independently corroborate the 25 November US market close and priority-company price observations."
   },
   "research_files_created": [
     "Updates/Provider/2026-11-26/README.md",
