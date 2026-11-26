@@ -1,5 +1,12 @@
 # Change Log
 
+## 2026-11-26 — Microsoft service-reliability coverage supplement
+
+- Quality review found that Reuters' 2026-11-24 16:11 UTC report on Microsoft's internal Code Red response fell within the 25 November update's stated coverage window but was omitted from the master report.
+- Added a separate dated Microsoft operational-resilience supplement and a dedicated two-source register using Reuters and the UK Parliament's Hansard record.
+- Kept the original 25 November report unchanged; labelled the new record as a retrospective coverage correction, not a new event in the 26 November scan window.
+- The supplement distinguishes Microsoft 365 / Exchange Online service failure from a broad Azure outage, records the UK government's stated impact assessment, and does not infer quantified churn, revenue loss or remediation cost.
+
 ## 2026-11-26 — Interim technology-market update
 
 - Published an interim update covering 2026-11-25 08:49:02 EAT to 2026-11-26 08:27:03 EAT; the normal 72-hour publication interval had not elapsed.
