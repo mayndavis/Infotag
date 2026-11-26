@@ -12,13 +12,14 @@
   },
   "update_type": "interim_material_event_update",
   "status": "published",
-  "version": 1,
+  "version": 2,
   "topics_covered": [
     "NVIDIA-governance-and-credit-rating",
     "AI-market-repricing-and-infrastructure-financing",
     "AI-data-centre-capex-and-logistics",
     "Southeast-Asia-export-control-and-data-centre-risk",
-    "AI-companion-safety-and-app-store-distribution"
+    "AI-companion-safety-and-app-store-distribution",
+    "Microsoft-service-reliability-and-operational-resilience-supplement"
   ],
   "companies_and_organisations_covered": [
     "NVIDIA",
@@ -67,12 +68,20 @@
     {
       "path": "Data/06-Sources-and-References/Source-Register-2026-11-26.md",
       "format": "text/markdown"
+    },
+    {
+      "path": "Data/03-Company-Research/Microsoft/Microsoft-Service-Reliability-Coverage-Supplement-2026-11-26.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/06-Sources-and-References/Source-Register-Microsoft-Coverage-Correction-2026-11-26.md",
+      "format": "text/markdown"
     }
   ],
   "source_references": {
-    "count": 14,
-    "count_basis": "Fourteen unique source documents used: five primary or official records and nine independent reporting documents. Two primary records (SATS half-year results and MIDA's 9M investment release) predate the coverage window and are used only as background verification, not as new developments.",
-    "verification_note": "S&P's official ratings-actions listing confirms NVIDIA's AA CreditWatch Negative status; Reuters supplies the rating rationale and Moody's response. ABS figures are checked against its release and detailed dataset. SATS operating figures and MIDA approved-investment figures are checked against primary company/government documents. Allegations and anonymous-source claims are attributed and not treated as established findings. AP's post-close report independently corroborates the US market closing figures and provides additional observations for Microsoft, Meta and SK hynix."
+    "count": 16,
+    "count_basis": "Sixteen unique source documents across the dated publication package: fourteen documents in the original 26 November scan (five primary/official and nine independent reporting documents) plus two documents in the separate Microsoft coverage-correction register (one primary UK parliamentary record and one independent Reuters investigation). Two primary records in the original scan are pre-window background sources.",
+    "verification_note": "The original 26 November scan's fourteen documents and the separate Microsoft correction's two documents are recorded in separate source registers. The correction uses Reuters for internal Code Red details and UK Hansard for official government evidence of the outage and public-sector impact. Allegations and internal-memo details remain attributed; no financial loss, churn or Azure-wide outage is inferred."
   },
   "notes": [
     "The routine 72-hour publication interval from the 2026-11-25 routine update had not elapsed. This is an interim publication justified by NVIDIA's new S&P CreditWatch Negative action and the unusually broad AI-market repricing.",
@@ -86,6 +95,7 @@
     "MIDA's RM123.5 billion figure is approved investment across proposed data-centre and cloud projects, not cash already deployed. A claim that up to half of future Southeast Asian capacity may not proceed is a single anonymous-source estimate reported by The Straits Times and is not used as a base case.",
     "The Talkie app removal is reported by Reuters after media allegations about inappropriate interactions with minors. Apple and MiniMax did not immediately respond; the allegations are not presented as adjudicated findings. MiniMax's reported 2024 revenue concentration is historical, and its current chatbot revenue mix is not disclosed.",
     "No timestamp-aligned valuation dataset was assembled. No price targets or personalised buy/sell recommendations are provided.",
-    "No new operating or earnings announcement was verified for most of the named priority companies during this exact window."
+    "No new operating or earnings announcement was verified for most of the named priority companies during this exact window.",
+    "A retrospective Microsoft service-reliability supplement was added on 2026-11-26 after quality review found that the Reuters Code Red report, published 2026-11-24 16:11 UTC (19:11 EAT), fell within the previous 2026-11-24 19:01 EAT to 2026-11-25 08:49:02 EAT coverage window but was omitted. The original 25 November report was not rewritten; the supplement and its two-source register are separate dated records."
   ]
 }
