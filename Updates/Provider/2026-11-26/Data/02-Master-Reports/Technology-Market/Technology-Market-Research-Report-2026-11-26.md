@@ -77,6 +77,7 @@ Reuters reported that AI-linked stocks fell sharply on 25 November before recove
 | NVIDIA | Closed down 3.9% after falling 8.5% intraday |
 | Alphabet | Closed down 2.1% after touching a 52-week low |
 | Broadcom | Recovered to finish roughly flat after an intraday fall |
+| Amazon | Closed down 3% |
 | Anthropic | Recovered to $82.19, up 1%, after trading as low as $73.85 |
 | CoreWeave 2031 bonds | Yield approached 18%, according to Tradeweb data cited by Reuters |
 
@@ -100,7 +101,7 @@ The Australian Bureau of Statistics released September-quarter 2026 capital-expe
 
 | Metric | Reported result |
 |---|---:|
-| Total private new capex, seasonally adjusted | A$59.474 billion |
+| Total private new capex, seasonally adjusted chain-volume measure | A$59.474 billion |
 | Quarterly change | +12.2% |
 | Annual change | +18.6% |
 | Equipment, plant and machinery | +23.1% quarter on quarter |
@@ -148,7 +149,7 @@ Reuters reported that Talkie and its Chinese counterpart Xingye contributed more
 
 No new company-specific operating announcement or earnings filing was verified for Microsoft, Amazon, Meta, Broadcom, SK hynix, Vertiv, AMD, Intel, TSMC or Marvell during this exact window.
 
-NVIDIA had a material ratings and governance development, but no new operating-results release was verified in this window. Alphabet, Broadcom and Anthropic appeared in market-price reporting; those observations are not treated as new company operating disclosures.
+NVIDIA had a material ratings and governance development, but no new operating-results release was verified in this window. Amazon, Alphabet, Broadcom and Anthropic appeared in market-price reporting; those observations are not treated as new company operating disclosures.
 
 ## 7. What investors should monitor over the next 1–5 years
 
