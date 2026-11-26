@@ -68,7 +68,8 @@ A possible one-notch move from AA to AA- would still leave NVIDIA in high-grade 
 
 ## 2. AI equities: sharp intraday stress, partial recovery
 
-Reuters and AP reported that AI-linked stocks fell sharply on 25 November before recovering part of their losses:
+Reuters and AP reported that AI-linked stocks fell sharply on 25 November before recovering part of their losses. [S4, S14]
+
 
 | Asset / company | Reported observation |
 |---|---|
