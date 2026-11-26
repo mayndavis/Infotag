@@ -68,20 +68,26 @@ A possible one-notch move from AA to AA- would still leave NVIDIA in high-grade 
 
 ## 2. AI equities: sharp intraday stress, partial recovery
 
-Reuters reported that AI-linked stocks fell sharply on 25 November before recovering part of their losses:
+Reuters and AP reported that AI-linked stocks fell sharply on 25 November before recovering part of their losses:
 
 | Asset / company | Reported observation |
 |---|---|
 | Nasdaq Composite | Fell as much as 4.6% intraday; closed down 0.6% |
-| Nasdaq-100 | Closed down 0.6%; briefly approached a 20% drawdown from its 6 October record close |
-| NVIDIA | Closed down 3.9% after falling 8.5% intraday |
+| S&P 500 | Closed down 0.3% after an intraday decline of as much as 3.2% |
+| Dow Jones Industrial Average | Closed up 0.3% |
+| NVIDIA | Closed down 3.9% after falling more than 9% intraday |
+| Microsoft | Closed down 1.2% |
+| Amazon | Reported off 3% in Reuters' market summary; treated as a session observation, not a confirmed closing return |
 | Alphabet | Closed down 2.1% after touching a 52-week low |
-| Broadcom | Recovered to finish roughly flat after an intraday fall |
-| Amazon | Closed down 3% |
-| Anthropic | Recovered to $82.19, up 1%, after trading as low as $73.85 |
+| Meta Platforms | Closed up 3.4% |
+| Broadcom | Closed down 0.1% after falling more than 6% intraday |
+| SK hynix | Closed down 11.1% |
+| Anthropic | Closed up 1.1% after an early decline |
+| SoftBank Group | Closed down 14.8% in Tokyo |
 | CoreWeave 2031 bonds | Yield approached 18%, according to Tradeweb data cited by Reuters |
+| Nasdaq-100 | Reuters reported that it briefly approached a 20% drawdown from its 6 October record close intraday; this threshold observation is not independently confirmed by AP |
 
-The Nasdaq-100's near-20% drawdown was an intraday observation; it did not close 20% below its high. It should not be described as a confirmed closing bear market. [S4]
+The Nasdaq-100's near-20% drawdown was a Reuters-reported intraday observation; AP independently confirms the broader Nasdaq Composite's 4.6% intraday fall and 0.6% closing decline, but does not independently confirm the Nasdaq-100 threshold. The Nasdaq-100 should not be described as having closed in a bear market. [S4, S14]
 
 Reuters attributed the selling to several overlapping concerns: high AI infrastructure costs, debt-funded expansion, uncertainty over cash returns, proposed tariffs and higher US inflation. The article does not establish that any single factor caused the entire market move. [S4]
 
@@ -147,9 +153,9 @@ Reuters reported that Talkie and its Chinese counterpart Xingye contributed more
 
 ## 6. Priority-company coverage status
 
-No new company-specific operating announcement or earnings filing was verified for Microsoft, Amazon, Meta, Broadcom, SK hynix, Vertiv, AMD, Intel, TSMC or Marvell during this exact window.
+No new company-specific operating announcement or earnings filing was verified for Microsoft, Amazon, Alphabet, Meta, Broadcom, SK hynix, Vertiv, AMD, Intel, TSMC, Marvell or Anthropic during this exact window.
 
-NVIDIA had a material ratings and governance development, but no new operating-results release was verified in this window. Amazon, Alphabet, Broadcom and Anthropic appeared in market-price reporting; those observations are not treated as new company operating disclosures.
+NVIDIA had a material ratings and governance development, but no new operating-results release was verified in this window. Microsoft, Amazon, Alphabet, Meta, Broadcom, SK hynix and Anthropic appeared in market-price reporting; those observations are not treated as new company operating disclosures.
 
 ## 7. What investors should monitor over the next 1–5 years
 
@@ -167,6 +173,6 @@ No timestamp-aligned valuation dataset was assembled in this scan. No price targ
 
 Thirteen unique documents are listed in the source register: five primary or official records and eight independent reporting documents. Two primary records published before the coverage window are used only to verify background operating and investment data. Reuters, TIME and The Straits Times claims are attributed to those publishers. Anonymous-source intelligence and possible Southeast Asian capacity cancellations are explicitly qualified.
 
-No aggregate claim count or 100% verification label is asserted.
+The Reuters market article's displayed 12:17 UTC timestamp precedes the US cash-market close even though its text includes closing observations. Closing figures are therefore cross-checked against AP's post-close report; Reuters is used for additional intraday and bond-market context. No aggregate claim count or 100% verification label is asserted.
 
 **Bottom line:** AI infrastructure activity remains visible in official capex data and physical cargo flows, while financial markets are repricing governance, debt and return-on-capital risk. Both signals can be true at the same time.
