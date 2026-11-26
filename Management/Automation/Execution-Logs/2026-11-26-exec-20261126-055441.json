@@ -1,0 +1,97 @@
+{
+  "execution_id": "exec-20261126-055441",
+  "provider": "ChatGPT",
+  "repository": "mayndavis/Infotag",
+  "branch": "main",
+  "scan_status": "completed",
+  "publication_status": "retrospective_coverage_supplement_published",
+  "publication_type": "retrospective_coverage_correction",
+  "scan_cutoff": "2026-11-26T08:54:41+03:00",
+  "scan_cutoff_utc": "2026-11-26T05:54:41Z",
+  "current_scan_window": {
+    "start": "2026-11-26T08:27:03+03:00",
+    "start_utc": "2026-11-26T05:27:03Z",
+    "end": "2026-11-26T08:54:41+03:00",
+    "end_utc": "2026-11-26T05:54:41Z",
+    "timezone": "Africa/Nairobi"
+  },
+  "current_window_result": "No new material developments were verified after the previous scan cutoff. No new current-window research publication or daily date folder was created.",
+  "routine_72_hour_interval_due": false,
+  "next_routine_publication_due": "2026-11-28T08:49:02+03:00",
+  "source_review": {
+    "scope": "Priority companies and AI, semiconductor, cloud, data-centre, networking, power and cooling developments; official investor-relations searches and current independent reporting.",
+    "finding": "Current results primarily concerned developments already covered by the 08:27 EAT scan or older events. No new material item with a verifiable publication time after the cutoff was identified.",
+    "no_new_source_count_asserted": true
+  },
+  "quality_control_finding": {
+    "type": "previous_window_coverage_omission",
+    "affected_update": "Updates/Provider/2026-11-25",
+    "original_coverage_window": "2026-11-24 19:01:00 EAT to 2026-11-25 08:49:02 EAT",
+    "omitted_source": "Reuters Microsoft Code Red report, published 2026-11-24 16:11 UTC (19:11 EAT), ten minutes after the previous coverage window began.",
+    "reason_for_correction": "The report contained material information about Microsoft 365 / Exchange Online resilience, internal incident response and a reported Code Red remediation programme. It was omitted from the 25 November master report.",
+    "corrective_action": "Added a separate dated Microsoft operational-resilience supplement and dedicated source register to the existing 26 November publication. The 25 November report and its source register were not rewritten.",
+    "classification": "Retrospective coverage correction; not a new event in the 26 November 08:27–08:54 EAT scan window."
+  },
+  "supplemental_sources": {
+    "count": 2,
+    "primary_or_official": 1,
+    "independent_reporting": 1,
+    "sources": [
+      {
+        "id": "S1",
+        "publisher": "Reuters",
+        "publication_time": "2026-11-24T16:11:00Z",
+        "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+        "use": "Internal Code Red programme, outage and remediation details, attributed to Reuters' review of internal memos and a Microsoft spokesperson."
+      },
+      {
+        "id": "S2",
+        "publisher": "UK Parliament / Hansard",
+        "publication_date": "2026-11-16",
+        "url": "https://hansard.parliament.uk/Commons/2026-11-16/debates/52FEDF8F-7F19-47A6-9FB7-1930054C9061/Microsoft365Outage",
+        "use": "Primary government record of the outage, UK public-sector/business impact, critical-service status and supplier-dependence discussion."
+      }
+    ]
+  },
+  "research_files_created": [
+    "Updates/Provider/2026-11-26/Data/03-Company-Research/Microsoft/Microsoft-Service-Reliability-Coverage-Supplement-2026-11-26.md",
+    "Updates/Provider/2026-11-26/Data/06-Sources-and-References/Source-Register-Microsoft-Coverage-Correction-2026-11-26.md"
+  ],
+  "existing_files_updated": [
+    "Updates/Provider/2026-11-26/README.md",
+    "Updates/Provider/2026-11-26/metadata.json",
+    "Management/Change-Log/CHANGELOG.md",
+    "Management/Automation/README.md",
+    "Management/Automation/AUTOMATION-STATUS.md"
+  ],
+  "execution_log_path": "Management/Automation/Execution-Logs/2026-11-26-exec-20261126-055441.json",
+  "commits": {
+    "microsoft_supplement": "531961e2755a4e40a529789eebc082a70180542e",
+    "supplemental_source_register": "359203c47fd2ca170df5fc5ef48d688edf624890",
+    "update_readme": "3301202bb2beea8af3d292cd1b4cbfef4a6a2bbc",
+    "update_metadata": "8f0903b213de1c952ff220dc326d6341d14cc15f",
+    "changelog": "f4749cad374ee2600814d69aae55e4d7b51d19eb",
+    "automation_readme": "bb44b81d451279721488df4c95b3bcae0b93571d",
+    "automation_status": "d8ddd548a652282169a0a900501259f22058483e",
+    "final_repository_head_before_log_finalization": "d8ddd548a652282169a0a900501259f22058483e"
+  },
+  "verification": {
+    "status": "pending_final_read_back",
+    "metadata_json_parse": "pending",
+    "report_paths": "pending",
+    "README_links": "pending",
+    "source_urls": "both source documents opened and checked during research",
+    "changed_paths_fetched": "pending_final_log_write",
+    "historical_files_overwritten": false
+  },
+  "changed_paths": [
+    "Updates/Provider/2026-11-26/Data/03-Company-Research/Microsoft/Microsoft-Service-Reliability-Coverage-Supplement-2026-11-26.md",
+    "Updates/Provider/2026-11-26/Data/06-Sources-and-References/Source-Register-Microsoft-Coverage-Correction-2026-11-26.md",
+    "Updates/Provider/2026-11-26/README.md",
+    "Updates/Provider/2026-11-26/metadata.json",
+    "Management/Change-Log/CHANGELOG.md",
+    "Management/Automation/README.md",
+    "Management/Automation/AUTOMATION-STATUS.md",
+    "Management/Automation/Execution-Logs/2026-11-26-exec-20261126-055441.json"
+  ]
+}
