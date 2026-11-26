@@ -34,7 +34,7 @@
     "independent_reporting": 9,
     "pre_window_background_sources": 2,
     "register_path": "Updates/Provider/2026-11-26/Data/06-Sources-and-References/Source-Register-2026-11-26.md",
-    "count_note": "Added AP's post-close report to independently corroborate the 25 November US market close and priority-company price observations."
+    "count_note": "Fourteen unique source documents are used: five primary/official records and nine independent reports. AP's post-close report independently corroborates the 25 November US market close and priority-company price observations."
   },
   "research_files_created": [
     "Updates/Provider/2026-11-26/README.md",
