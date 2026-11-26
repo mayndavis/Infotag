@@ -2,8 +2,8 @@
 
 **Publication date:** 2026-11-26  
 **Coverage window:** 2026-11-25 08:49:02 EAT to 2026-11-26 08:27:03 EAT  
-**Unique source documents used:** 13  
-**Source composition:** 5 primary or official records; 8 independent reporting documents.  
+**Unique source documents used:** 14  
+**Source composition:** 5 primary or official records; 9 independent reporting documents.  
 **Verification method:** Each source was opened. Material claims were checked against the relevant source text, including dates, figures, attribution and limitations.
 
 | ID | Publisher / source | Publication date | Source class | Use and verification scope | Direct URL |
@@ -12,6 +12,7 @@
 | S2 | Reuters, “S&P warns Nvidia's board may be compromised, puts chipmaker's rating on downgrade watch” | 2026-11-25 16:31 UTC | Independent reporting | S&P rationale, possible one-notch downgrade within 90 days, governance and board-independence concerns, and reported share-price context. Opened and checked. | https://www.reuters.com/technology/us-finds-no-evidence-china-directed-executive-spy-nvidia-ceo-wsj-reports-2026-11-25/ |
 | S3 | Reuters, “Moody's says Nvidia's Huang reinstatement eases uncertainty, ratings unchanged” | 2026-11-25 22:18 UTC | Independent reporting | Moody's Aa1 rating and stable outlook; distinction between reduced near-term leadership uncertainty and unresolved governance/regulatory uncertainty. Opened and checked. | https://www.reuters.com/business/moodys-says-nvidias-huang-reinstatement-eases-uncertainty-ratings-unchanged-2026-11-25/ |
 | S4 | Reuters, “AI stock rout deepens but damage is limited by afternoon bounce” | 2026-11-25 12:17 UTC | Independent reporting | Intraday and closing market observations, AI-equity repricing, CoreWeave bond yield and the multiple factors Reuters identified. Opened and checked. | https://www.reuters.com/business/ai-stocks-slide-fears-over-infrastructure-buildout-costs-2026-11-25/ |
+| S14 | Associated Press, “Wall Street recovers most early losses as pullback in AI stocks eases” | 2026-11-25 (post-close report) | Independent reporting | Cross-checks closing index and company observations for NVIDIA, Microsoft, Meta, Broadcom, SK hynix, Anthropic and SoftBank; confirms the intraday/close reversal. Opened and checked. | https://apnews.com/article/stock-markets-ai-earnings-oil-10044b4fb55d3ff20fde9ba9e9acaab1 |
 | S5 | Reuters, “US officials divided over Chinese spying allegations following Jensen Huang's return” | 2026-11-26 03:38 UTC | Independent reporting based on anonymous sources | Attributed accounts of FBI and CIA assessments, differing interpretations and limits of the available intelligence. The article says Reuters could not determine the details of the intelligence reports. Not treated as proof of espionage or wrongdoing. | https://www.reuters.com/world/us/us-officials-divided-over-chinese-spying-allegations-following-jensen-huangs-2026-11-26/ |
 | S6 | TIME, “The ‘Red Flags’ Behind Nvidia Customer Megaspeed” | 2026-11-25 16:42 UTC | Investigative reporting | Historical indirect investment in Megaspeed's former parent and corporate-structure questions. The report does not establish current state ownership, current control or unlawful conduct. Opened and checked. | https://time.com/article/2026/11/25/nvidia-megaspeed-china-investment/ |
 | S7 | Reuters, “Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says” | 2026-11-26 02:33 UTC | Independent reporting / executive interview | SATS CEO's comments on server racks and semiconductor shipments; cargo-volume comparison and continued AI-related demand. Opened and checked. | https://www.reuters.com/world/asia-pacific/air-cargo-demand-ai-data-centres-shows-no-sign-slowing-sats-ceo-says-2026-11-26/ |
@@ -26,6 +27,7 @@
 
 - S1 is the official S&P ratings-actions listing. Its dynamic page does not expose every row in the opened text view; the indexed official listing returned NVIDIA's AA / Watch Negative status. S2 is used for the rating rationale and reported review horizon.
 - S2 and S3 are separate Reuters reports on S&P and Moody's. They are not primary rating-agency releases.
+- S4's displayed 12:17 UTC timestamp precedes the US cash-market close even though the article includes closing observations. AP's post-close report S14 independently confirms the main closing figures. Reuters S4 is used for additional intraday and bond-market context; the Nasdaq-100 20% threshold remains Reuters-only.
 - S5 relies on people familiar with classified briefings. Reuters explicitly says it could not determine the details of the intelligence reports. The report is not evidence of espionage.
 - S6 is investigative journalism based on corporate records and expert interviews. Historical indirect investment is not equivalent to current ownership or control.
 - S8 and S10 are primary documents published before this coverage window. They are used to verify background figures, not presented as new events.
