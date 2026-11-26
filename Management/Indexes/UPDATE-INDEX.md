@@ -1,6 +1,7 @@
 # Published Update Index
 
 | Publication date | Provider | Coverage period | Summary | Metadata | Location |
+| 2026-11-26 | ChatGPT | 2026-11-25 08:49:02 EAT to 2026-11-26 08:27:03 EAT | Interim NVIDIA CreditWatch, AI-market repricing, Australian data-centre capex, regional export-control risk and AI safety | [metadata.json](../../Updates/Provider/2026-11-26/metadata.json) | [Open update](../../Updates/Provider/2026-11-26/README.md) |
 |---|---|---|---|---|---|
 | 2026-10-31 | ChatGPT | 2026-10-22 to 2026-10-31 | Initial technology-market fact-check and investor outlook | [metadata.json](../../Updates/Provider/2026-10-31/metadata.json) | [Open update](../../Updates/Provider/2026-10-31/README.md) |
 | 2026-11-21 | ChatGPT | 2026-11-18 to 2026-11-21 | Technology market research update (9 institutional briefs) | [metadata.json](../../Updates/Provider/2026-11-21/metadata.json) | [Open update](../../Updates/Provider/2026-11-21/README.md) |
