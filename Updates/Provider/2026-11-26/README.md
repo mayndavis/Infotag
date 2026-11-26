@@ -10,6 +10,8 @@
 - **NVIDIA report:** [NVIDIA Governance and Credit Update](Data/03-Company-Research/NVIDIA/NVIDIA-Update-2026-11-26.md)
 - **Infrastructure report:** [AI Infrastructure Demand and Capital Discipline](Data/04-Industry-Analysis/AI-Infrastructure/AI-Infrastructure-Demand-and-Capital-Discipline-2026-11-26.md)
 - **AI safety report:** [AI Companion Safety and App Distribution](Data/04-Industry-Analysis/AI-Safety-and-Distribution/AI-Companion-Safety-and-App-Distribution-2026-11-26.md)
+- **Microsoft coverage supplement:** [Microsoft Service Reliability and Operational Resilience](Data/03-Company-Research/Microsoft/Microsoft-Service-Reliability-Coverage-Supplement-2026-11-26.md)
+- **Supplemental source register:** [Microsoft coverage correction sources](Data/06-Sources-and-References/Source-Register-Microsoft-Coverage-Correction-2026-11-26.md)
 - **Source register:** [Source Register](Data/06-Sources-and-References/Source-Register-2026-11-26.md)
 
 ## Why an interim publication is warranted
@@ -30,6 +32,8 @@ This update supplements earlier dated publications. It does not overwrite histor
 2. [NVIDIA Governance and Credit Update](Data/03-Company-Research/NVIDIA/NVIDIA-Update-2026-11-26.md)
 3. [AI Infrastructure Demand and Capital Discipline](Data/04-Industry-Analysis/AI-Infrastructure/AI-Infrastructure-Demand-and-Capital-Discipline-2026-11-26.md)
 4. [AI Companion Safety and App Distribution](Data/04-Industry-Analysis/AI-Safety-and-Distribution/AI-Companion-Safety-and-App-Distribution-2026-11-26.md)
-5. [Source Register](Data/06-Sources-and-References/Source-Register-2026-11-26.md)
+5. [Microsoft Service Reliability and Operational Resilience — Coverage Supplement](Data/03-Company-Research/Microsoft/Microsoft-Service-Reliability-Coverage-Supplement-2026-11-26.md)
+6. [Supplemental Microsoft Source Register](Data/06-Sources-and-References/Source-Register-Microsoft-Coverage-Correction-2026-11-26.md)
+7. [Source Register](Data/06-Sources-and-References/Source-Register-2026-11-26.md)
 
-No dedicated company reports were created for Microsoft, Amazon, Meta, Broadcom, SK hynix, Vertiv, AMD, Intel, TSMC or Marvell because no new company-specific operating announcement or filing for them was verified in this exact window. Microsoft, Amazon, Alphabet, Meta, Broadcom, SK hynix and Anthropic appear in market reporting only; those observations are not treated as new operating disclosures.
+No new company-specific operating announcement or filing was verified for Microsoft, Amazon, Meta, Broadcom, SK hynix, Vertiv, AMD, Intel, TSMC or Marvell in the 25–26 November scan window. A separate retrospective Microsoft service-reliability supplement is included because the previous 25 November scan omitted a material Reuters report published within its stated coverage window. The supplement is explicitly labelled as a coverage correction, not a new 26 November event.
