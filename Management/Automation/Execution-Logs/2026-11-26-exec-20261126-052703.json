@@ -52,7 +52,7 @@
     "Management/Automation/README.md"
   ],
   "execution_log_path": "Management/Automation/Execution-Logs/2026-11-26-exec-20261126-052703.json",
-  "research_publication_commit_sha": "39c2aa0c09fc437fa282d0add3a9a20b7bf30c87",
+  "research_publication_commit_sha": "a80449c11e66f01c95c192e79bfa3d573c7548a6",
   "verification": {
     "status": "pending_read_back",
     "metadata_json_parse": "pending",
