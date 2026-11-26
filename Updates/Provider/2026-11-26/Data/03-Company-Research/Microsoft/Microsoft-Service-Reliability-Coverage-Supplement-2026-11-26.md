@@ -3,7 +3,7 @@
 **Publication date:** 2026-11-26  
 **Supplement type:** Retrospective coverage correction  
 **Original coverage window:** 2026-11-24 19:01:00 EAT to 2026-11-25 08:49:02 EAT  
-**Original publication:** [25 November 2026 technology-market update](../../../../README.md)  
+**Original publication:** [25 November 2026 technology-market update](../../../../../Provider/2026-11-25/README.md)  
 **Source register:** [Supplemental source register](../../06-Sources-and-References/Source-Register-Microsoft-Coverage-Correction-2026-11-26.md)
 
 > **Why this supplement exists:** A Reuters investigation published at 2026-11-24 16:11 UTC (19:11 EAT) fell inside the 25 November update's stated coverage window, but the Microsoft operational-resilience development was omitted from that report. This dated supplement corrects the coverage gap. It is not a new event in the 26 November scan window and does not replace or silently rewrite the original 25 November report.
