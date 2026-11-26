@@ -37,7 +37,11 @@
     "Moody's Ratings",
     "Australian Bureau of Statistics",
     "Malaysian Investment Development Authority",
-    "Government of Malaysia"
+    "Government of Malaysia",
+    "Microsoft",
+    "Meta Platforms",
+    "SK hynix",
+    "Samsung Electronics"
   ],
   "report": {
     "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-26.md",
@@ -66,9 +70,9 @@
     }
   ],
   "source_references": {
-    "count": 13,
-    "count_basis": "Thirteen unique source documents used: five primary or official records and eight independent reporting documents. Two primary records (SATS half-year results and MIDA's 9M investment release) predate the coverage window and are used only as background verification, not as new developments.",
-    "verification_note": "S&P's official ratings-actions listing confirms NVIDIA's AA CreditWatch Negative status; Reuters supplies the rating rationale and Moody's response. ABS figures are checked against its release and detailed dataset. SATS operating figures and MIDA approved-investment figures are checked against primary company/government documents. Allegations and anonymous-source claims are attributed and not treated as established findings."
+    "count": 14,
+    "count_basis": "Fourteen unique source documents used: five primary or official records and nine independent reporting documents. Two primary records (SATS half-year results and MIDA's 9M investment release) predate the coverage window and are used only as background verification, not as new developments.",
+    "verification_note": "S&P's official ratings-actions listing confirms NVIDIA's AA CreditWatch Negative status; Reuters supplies the rating rationale and Moody's response. ABS figures are checked against its release and detailed dataset. SATS operating figures and MIDA approved-investment figures are checked against primary company/government documents. Allegations and anonymous-source claims are attributed and not treated as established findings. AP's post-close report independently corroborates the US market closing figures and provides additional observations for Microsoft, Meta and SK hynix."
   },
   "notes": [
     "The routine 72-hour publication interval from the 2026-11-25 routine update had not elapsed. This is an interim publication justified by NVIDIA's new S&P CreditWatch Negative action and the unusually broad AI-market repricing.",
