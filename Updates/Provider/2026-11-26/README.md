@@ -32,4 +32,4 @@ This update supplements earlier dated publications. It does not overwrite histor
 4. [AI Companion Safety and App Distribution](Data/04-Industry-Analysis/AI-Safety-and-Distribution/AI-Companion-Safety-and-App-Distribution-2026-11-26.md)
 5. [Source Register](Data/06-Sources-and-References/Source-Register-2026-11-26.md)
 
-No dedicated company reports were created for Microsoft, Amazon, Meta, Broadcom, SK hynix, Vertiv, AMD, Intel, TSMC or Marvell because no new company-specific operating announcement or filing for them was verified in this exact window. Alphabet, Broadcom and Anthropic appear in market reporting only; that is not treated as a new operating disclosure.
+No dedicated company reports were created for Microsoft, Amazon, Meta, Broadcom, SK hynix, Vertiv, AMD, Intel, TSMC or Marvell because no new company-specific operating announcement or filing for them was verified in this exact window. Microsoft, Amazon, Alphabet, Meta, Broadcom, SK hynix and Anthropic appear in market reporting only; those observations are not treated as new operating disclosures.
