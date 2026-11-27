@@ -1,0 +1,100 @@
+{
+  "execution_id": "exec-20261127-052318",
+  "provider": "ChatGPT",
+  "repository": "mayndavis/Infotag",
+  "branch": "main",
+  "execution_status": "SUCCESS",
+  "scan_window": {
+    "start": "2026-11-26T08:54:41+03:00",
+    "end": "2026-11-27T08:23:18+03:00",
+    "timezone": "Africa/Nairobi"
+  },
+  "publication_date": "2026-11-27",
+  "publication_type": "interim_material_event_update",
+  "routine_72_hour_interval_due": false,
+  "interim_publication_reason": [
+    "Fitch assessment reported by Reuters on the financing and investment implications of new U.S. advanced-chip controls in Asia-Pacific data centres.",
+    "Reuters reporting, based on people familiar with the companies, of potential Z.AI and Moonshot AI model-development delays.",
+    "Reuters investigation identifying MiniMax in an AI inference data-handling and URL-access investigation, with MiniMax and Atlas Cloud statements reviewed.",
+    "Reuters poll forecast of South Korean November export growth, supported by Korea Customs Service preliminary first-20-day trade data."
+  ],
+  "source_audit": {
+    "unique_documents_opened": 10,
+    "current_window_reuters_reports": 4,
+    "supporting_documents_published_before_window": 6,
+    "source_register_path": "Updates/Provider/2026-11-27/Data/06-Sources-and-References/Source-Register-2026-11-27.md",
+    "verification_note": "Four current-window Reuters reports were opened and checked against publication timestamps and material claims. Six earlier government, company or technical-research documents were opened as supporting evidence. Anonymous-source claims, company statements and research-firm findings are separately attributed. No 100% verification claim is made."
+  },
+  "research_findings": [
+    {
+      "topic": "Asia-Pacific advanced-chip controls and data-centre financing",
+      "classification": "regulatory_fact_and_ratings_agency_outlook",
+      "key_sources": ["S3", "S4"],
+      "caveat": "The BIS rule is primary regulatory text. Fitch's view is reported by Reuters; no direct Fitch publication was retrieved."
+    },
+    {
+      "topic": "Potential Chinese AI model-development delays",
+      "classification": "anonymous_source_reporting",
+      "key_sources": ["S4", "S5", "S6"],
+      "caveat": "Z.AI and Moonshot release timing was not company-confirmed. The BIS rule does not independently verify internal model schedules."
+    },
+    {
+      "topic": "MiniMax inference-data handling",
+      "classification": "investigative_reporting_with_company_statements_and_security_research",
+      "key_sources": ["S7", "S8", "S9", "S10"],
+      "caveat": "MiniMax says full conversations were not retained and no broader prompt/response disclosure was found in examined requests. Feishu activity and code-download attempts remain unresolved; Dragos's original report did not name MiniMax."
+    },
+    {
+      "topic": "South Korean November export outlook",
+      "classification": "economist_poll_forecast_and_preliminary_official_trade_data",
+      "key_sources": ["S1", "S2"],
+      "caveat": "The 96.8% figure is a Reuters poll forecast, not an official November result. The customs figures cover 1-20 November and are preliminary."
+    }
+  ],
+  "files_created": [
+    "Updates/Provider/2026-11-27/README.md",
+    "Updates/Provider/2026-11-27/metadata.json",
+    "Updates/Provider/2026-11-27/Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-27.md",
+    "Updates/Provider/2026-11-27/Data/04-Industry-Analysis/AI-Infrastructure/Asia-Pacific-Advanced-Chip-Controls-and-Data-Centre-Capital-2026-11-27.md",
+    "Updates/Provider/2026-11-27/Data/04-Industry-Analysis/AI-Safety-and-Distribution/AI-Provider-Data-Handling-and-Distillation-2026-11-27.md",
+    "Updates/Provider/2026-11-27/Data/04-Industry-Analysis/Semiconductors/South-Korea-Semiconductor-Export-Outlook-2026-11-27.md",
+    "Updates/Provider/2026-11-27/Data/06-Sources-and-References/Source-Register-2026-11-27.md"
+  ],
+  "files_updated": [
+    "Management/Indexes/UPDATE-INDEX.md",
+    "Updates/README.md",
+    "Management/Change-Log/CHANGELOG.md",
+    "Management/Automation/README.md",
+    "Management/Automation/AUTOMATION-STATUS.md"
+  ],
+  "execution_log_path": "Management/Automation/Execution-Logs/2026-11-27-exec-20261127-052318.json",
+  "commit_chain": {
+    "research_files": [
+      "31c413b870ec07ba8cbdd9958f553ba47d5af8f9",
+      "86b897296b10f52b856f4d0f889ed9cade5202ad",
+      "48e48295aaa4646da0e475bbf79c977a6601a2a8",
+      "1a58dbd00f71ae477f792fcf40f2a3a2727c8588",
+      "0258583a66826bcb5b97563e76d8746e6d8160dd",
+      "3f67e79f247102b09e41b01538237ab3df1ecc06",
+      "44f1c20368a19dffd3e2af9ea24aab75be7dc880"
+    ],
+    "chronological_and_change_records": [
+      "82ee06f1d08b5a8941fcc384bf073687982394bc",
+      "8acb4e537a34b09a40863706e54a7d54684e7253",
+      "0390ee5895f800a8f95312d10b7295bbf72a3a5e",
+      "36bdebc253ae9301911ddd27232cbb599d89463d"
+    ],
+    "automation_status_commit": null,
+    "final_log_update_commit": null
+  },
+  "verification": {
+    "new_research_files_fetched_after_commit": 7,
+    "all_new_research_files_nonempty": true,
+    "metadata_json_parse": true,
+    "all_metadata_report_paths_exist": true,
+    "source_urls_opened_and_checked": true,
+    "chronological_and_automation_readback": "pending",
+    "final_repository_head": null
+  },
+  "next_routine_publication_due": "2026-11-28T08:49:02+03:00"
+}
