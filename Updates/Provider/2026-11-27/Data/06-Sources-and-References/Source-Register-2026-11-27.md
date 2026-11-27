@@ -1,0 +1,36 @@
+# Source Register — 27 November 2026 Interim Update
+
+**Publication date:** 2026-11-27  
+**Coverage window:** 2026-11-26 08:54:41 EAT to 2026-11-27 08:23:18 EAT  
+**Unique source documents opened:** 10  
+**Current-window reporting:** 4 Reuters documents  
+**Supporting documents:** 6 government, company or technical-research documents published before the current window  
+**Verification method:** Each source was opened. Material claims were checked against the relevant text, publication date, attribution and stated limitations.
+
+| ID | Publisher / source | Publication date | Source class | Use and verification scope | Direct URL |
+|---|---|---|---|---|---|
+| S1 | Reuters, “South Korea November exports seen posting fastest growth in over 50 years on AI chip surge” | 2026-11-27 05:03 UTC | Independent reporting / economist poll | Eight-economist median forecast of 96.8% November export growth, 38.9% import growth and US$48.03 billion trade surplus forecast; official monthly data due 1 December. Forecasts are not actual results. | https://www.reuters.com/world/asia-pacific/south-korea-november-exports-seen-posting-fastest-growth-over-50-years-ai-chip-surge-2026-11-27/ |
+| S2 | Korea Customs Service, “2026년 11월 1일 ~ 11월 20일 수출입 현황 [잠정치]” | 2026-11-23 | Primary government trade data | Preliminary customs-clearance figures for 1–20 November: US$77.4 billion exports, US$38.466 billion semiconductor exports, 49.7% semiconductor share and US$27.112 billion trade surplus. Background data published before this scan window. | https://customs.go.kr/kcs/na/ntt/selectNttInfo.do?bbsId=1362&mi=2891&nttSn=10184283&nttSnUrl=5b141dccc13a13335fe32982d23af29d |
+| S3 | Reuters, “US chip curbs will slow Asia data-center investment, Fitch says” | 2026-11-26 11:18 UTC | Independent reporting of ratings-agency assessment | Fitch's outlook for more selective Asia-Pacific data-centre investment, neocloud utilisation risk, project delays and tighter financing. No direct Fitch publication was retrieved; no project-cancellation count is claimed. | https://www.reuters.com/world/asia-pacific/us-chip-curbs-will-slow-asia-data-center-investment-fitch-says-2026-11-26/ |
+| S4 | U.S. Department of Commerce, Bureau of Industry and Security, “Addressing Remote Access to Advanced Semiconductors,” Federal Register, 91 FR 74970 | 2026-11-19 | Primary regulatory text | Official rule effective 19 November 2026. Verifies the covered advanced-compute items, five-country licensing requirement, remote data-centre end-use controls, 12,000,000 aggregate TPP threshold, stated exceptions and 90-day transition for certain existing services. Background legal source, not a new event in this scan window. | https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm |
+| S5 | Reuters, “US chip curbs, distillation crackdown threaten Chinese AI model development, sources say” | 2026-11-26 07:19 UTC | Independent reporting based on anonymous company sources | Reported potential delays to Z.AI GLM-5.5 and Moonshot Kimi K4, with attributed internal expectations. Neither company confirmed the reported release timing to Reuters. The rule's existence is verified separately by S4; the company-specific delays are not. | https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/ |
+| S6 | Anthropic, “Detecting and countering misuse of AI: September 2026” | 2026-09 | Company threat-intelligence report | Background on Anthropic's own attribution of illicit distillation campaigns and its safeguards. These are Anthropic's reported findings, not independently audited measurements. | https://www.anthropic.com/threat-intelligence-report-september-2026 |
+| S7 | Reuters, “Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says” | 2026-11-26 06:16 UTC | Independent investigative reporting | Reuters identified MiniMax in Dragos's canary-link investigation; reports delayed URL access, MiniMax and Atlas statements, Feishu appearance, Beijing/Shanghai device access and unresolved code-download activity. Attribution and limits are preserved. | https://www.reuters.com/world/data/data-chinese-ai-firm-minimax-accessed-by-unidentified-parties-researcher-says-2026-11-26/ |
+| S8 | MiniMax, “Update on URL Access in Forwarded API Requests” | 2026-11-24 | Primary company statement | MiniMax's account of URL/IP extraction, security-log retention, automated URL probing, default-enabled process, inclusion of ZDR-marked requests, disabling the mechanism, deletion of URLs and its finding of no broader prompt/response disclosure in requests examined. Interested-party statement. | https://www.minimax.io/blog/update-on-url-access-in-forwarded-api-requests-20261124 |
+| S9 | Atlas Cloud, “Security notice: MiniMax's official API and how we protect your data” | 2026-11-24 | Primary service-provider statement | Atlas's account of the upstream MiniMax route, suspension of requests to MiniMax's official API and precautionary guidance for users of M3, M2.7 and M3.1 Flash. Interested-party statement. | https://www.atlascloud.ai/blog/ai-updates/security-and-privacy-commitment |
+| S10 | Dragos, “Three breaches, endless leaks: Your AI supply chain needs canaries” | 2026-11-19 08:00 UTC | First-party cybersecurity research | Dragos's canary-token methodology and reported observations from nearly two million prompts submitted July–November 2026. The original report did not name MiniMax; Reuters S7 later identified it. Dragos's observations do not establish that every prompt or response was disclosed. | https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens |
+
+## Source-quality notes
+
+- S1 is a poll forecast from eight economists, not an official South Korean trade release. The official November results are due 1 December.
+- S2 is a primary government release, but its figures are preliminary and cover only 1–20 November. It does not identify SK hynix's or Samsung's individual contribution or memory product mix.
+- S3 is Reuters' account of Fitch's assessment. No direct Fitch research publication was retrieved.
+- S4 is the controlling primary legal text. It is item- and end-use-specific; it must not be summarised as a blanket ban on all chips or all data-centre activity in Southeast Asia.
+- S5 relies on people familiar with Z.AI and Moonshot. The model-release delays are not company-confirmed.
+- S6 contains Anthropic's own threat-intelligence attributions. Do not present its campaign measurements as independent audit results.
+- S7 attributes the technical findings to Dragos and includes MiniMax's response. The Feishu activity's initiator and the private-code download attempts' outcome remain unknown.
+- S8 says MiniMax disabled the URL-opening mechanism and deleted recorded URLs. These are company-reported remediation actions and findings.
+- S9 is Atlas Cloud's own account and precautionary customer guidance. It does not prove that every user or request was compromised.
+- S10's original report did not name MiniMax. The identification was made in Reuters S7; do not back-attribute that name to the original Dragos report.
+
+No aggregate factual-claim count or 100% verification label is asserted.
