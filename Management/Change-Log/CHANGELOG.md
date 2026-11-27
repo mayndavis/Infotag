@@ -1,5 +1,14 @@
 # Change Log
 
+## 2026-11-27 — Interim technology-market update
+
+- Published an interim update covering 2026-11-26 08:54:41 EAT to 2026-11-27 08:23:18 EAT; the normal 72-hour publication interval had not elapsed.
+- Added a master report and three industry reports covering U.S. advanced-chip controls and Asia-Pacific data-centre financing, AI inference data handling and model distillation, and South Korean semiconductor export indicators.
+- Used four Reuters reports published within the coverage window and six supporting government, company or technical-research documents published earlier.
+- Distinguished the official BIS rule from Fitch's forward-looking assessment, anonymous-source reports about Z.AI and Moonshot model timing, company statements from MiniMax and Atlas Cloud, and Dragos's independent research observations.
+- Recorded the South Korean 96.8% November export figure as a Reuters poll forecast, not an official result; the Korea Customs Service first-20-day figures are identified as preliminary background data.
+- Added seven research files, updated the chronological index and Updates README, and recorded the execution in the automation log and status. No historical research was overwritten.
+
 ## 2026-11-26 — Microsoft service-reliability coverage supplement
 
 - Quality review found that Reuters' 2026-11-24 16:11 UTC report on Microsoft's internal Code Red response fell within the 25 November update's stated coverage window but was omitted from the master report.
