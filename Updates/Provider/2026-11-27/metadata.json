@@ -1,0 +1,83 @@
+{
+  "schema_version": "1.0.0",
+  "update_id": "chatgpt-2026-11-27-interim-asia-chip-controls-ai-data-security-memory-exports",
+  "provider": "ChatGPT",
+  "publication_date": "2026-11-27",
+  "coverage_period": {
+    "start": "2026-11-26",
+    "end": "2026-11-27",
+    "start_timestamp": "2026-11-26T08:54:41+03:00",
+    "end_timestamp": "2026-11-27T08:23:18+03:00",
+    "timezone": "Africa/Nairobi"
+  },
+  "update_type": "interim_material_event_update",
+  "status": "published",
+  "version": 1,
+  "topics_covered": [
+    "US-advanced-chip-export-controls",
+    "Asia-Pacific-data-centre-investment-and-financing",
+    "AI-model-distillation-and-compute-access",
+    "AI-inference-data-privacy-and-security",
+    "South-Korea-semiconductor-export-outlook"
+  ],
+  "companies_and_organisations_covered": [
+    "NVIDIA",
+    "SK hynix",
+    "Anthropic",
+    "OpenAI",
+    "MiniMax",
+    "Moonshot AI",
+    "Z.AI",
+    "Atlas Cloud",
+    "OpenRouter",
+    "Dragos",
+    "Fitch Ratings",
+    "U.S. Department of Commerce",
+    "Bureau of Industry and Security",
+    "Korea Customs Service",
+    "South Korea"
+  ],
+  "report": {
+    "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-27.md",
+    "format": "text/markdown"
+  },
+  "reports": [
+    {
+      "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-27.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/04-Industry-Analysis/AI-Infrastructure/Asia-Pacific-Advanced-Chip-Controls-and-Data-Centre-Capital-2026-11-27.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/04-Industry-Analysis/AI-Safety-and-Distribution/AI-Provider-Data-Handling-and-Distillation-2026-11-27.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/04-Industry-Analysis/Semiconductors/South-Korea-Semiconductor-Export-Outlook-2026-11-27.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/06-Sources-and-References/Source-Register-2026-11-27.md",
+      "format": "text/markdown"
+    }
+  ],
+  "source_references": {
+    "count": 10,
+    "count_basis": "Ten unique source documents opened: four Reuters reports published within the coverage window and six supporting government, company or technical-research documents published earlier. The six supporting documents verify the regulatory text, preliminary trade data, company statements and research methodology; they are not counted as new events in the current window.",
+    "verification_note": "The four current-window Reuters reports were opened and checked against their specific claims and publication times. Supporting primary or first-party documents were also opened. Anonymous-source claims about Z.AI and Moonshot are attributed and not treated as company-confirmed. MiniMax's and Atlas Cloud's statements are attributed to the companies; Dragos's findings remain the research firm's findings. No 100% verification claim is made."
+  },
+  "notes": [
+    "This is an interim material-event publication. The routine 72-hour publication interval from the 2026-11-25 routine update had not elapsed.",
+    "The U.S. rule is an item- and end-use-specific licensing regime, not a blanket prohibition on all advanced-chip shipments or all data-centre activity in Southeast Asia.",
+    "Fitch's assessment is reported by Reuters; no direct Fitch publication was retrieved for this scan.",
+    "Reuters' reports of potential Z.AI and Moonshot model delays rely on people familiar with the companies. Neither company confirmed the reported timing to Reuters.",
+    "MiniMax said its monitoring system extracted and stored URLs from certain forwarded requests and that automated security programs later opened some URLs. MiniMax said it did not retain full conversations and found no evidence of third-party disclosure of prompts or responses beyond the URL activity it described.",
+    "Reuters reported a link appearing in a Feishu channel and later being opened by devices in Beijing and Shanghai. The identity of the person who shared it and the reason for that activity were not established. Unusual Russian-region activity did not establish that links were opened from Russia.",
+    "Dragos's 2026-11-19 report did not name MiniMax. Reuters identified MiniMax on 2026-11-26. The report does not establish that every prompt or model response sent to MiniMax was disclosed.",
+    "The South Korean 96.8% November export growth figure is a Reuters poll median of eight economists, not an official result. Official November trade figures are scheduled for 2026-12-01.",
+    "The Korea Customs Service first-20-day figures were published on 2026-11-23 and are background data. They do not identify SK hynix's individual contribution or distinguish memory product mix.",
+    "No timestamp-aligned valuation dataset was assembled. No price targets or personalised buy/sell recommendations are provided."
+  ]
+}
