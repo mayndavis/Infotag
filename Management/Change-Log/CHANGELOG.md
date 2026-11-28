@@ -1,5 +1,15 @@
 # Change Log
 
+## 2026-11-28 — Interim Cloud One security update
+
+- Published an interim report covering 2026-11-27 08:23:18 EAT to 2026-11-28 08:16:45 EAT after Reuters reported a breach of the U.S. Air Force's Cloud One platform.
+- Classified the incident as reported and not officially confirmed. The Air Force did not confirm or deny the specific incident; the attacker, vulnerability, affected provider layer, scope and any data theft remain unknown.
+- Recorded that Reuters describes Cloud One as combining Microsoft, Amazon, Oracle and Alphabet cloud services, while explicitly avoiding attribution of the incident to any provider.
+- Used two opened documents: the Reuters investigation and a CBS News follow-up that obtained additional official comments but relies on Reuters for the breach account.
+- Added a master report, one cloud-infrastructure report, metadata, README and source register. No company-specific report was created because no provider-specific compromise or company operating disclosure was established.
+- Updated the chronological index, Updates README and automation records. The normal 72-hour interval was due at 08:49:02 EAT and had not elapsed at the scan cutoff; publication was triggered by the material time-sensitive report. No historical research was overwritten.
+
+
 ## 2026-11-27 — Interim technology-market update
 
 - Published an interim update covering 2026-11-26 08:54:41 EAT to 2026-11-27 08:23:18 EAT; the normal 72-hour publication interval had not elapsed.
