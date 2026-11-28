@@ -23,6 +23,7 @@ The topic taxonomy is guidance for organizing real findings, not a folder templa
 
 ## Published updates
 
+- **2026-11-28 Interim Update:** [U.S. Air Force Cloud One reported security incident and multi-cloud resilience](Provider/2026-11-28/README.md)
 - **2026-11-27 Interim Update:** [Asia-Pacific chip controls, data-centre financing, AI data security and South Korean semiconductor exports](Provider/2026-11-27/README.md)
 - **2026-11-26 Interim Update:** [NVIDIA CreditWatch, AI-market repricing, Australia data-centre capex and AI safety](Provider/2026-11-26/README.md)
 - **2026-11-25 Update:** [Dell AI-server results, data-centre power and AI infrastructure credit risk](Provider/2026-11-25/README.md)
