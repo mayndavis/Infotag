@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "update_id": "chatgpt-2026-11-28-interim-cloud-one-security-incident",
+  "provider": "ChatGPT",
+  "publication_date": "2026-11-28",
+  "coverage_period": {
+    "start": "2026-11-27",
+    "end": "2026-11-28",
+    "start_timestamp": "2026-11-27T08:23:18+03:00",
+    "end_timestamp": "2026-11-28T08:16:45+03:00",
+    "timezone": "Africa/Nairobi"
+  },
+  "update_type": "interim_material_event_update",
+  "status": "published",
+  "version": 1,
+  "topics_covered": [
+    "US-Air-Force-Cloud-One",
+    "government-cloud-security",
+    "multi-cloud-infrastructure",
+    "cloud-control-plane-security",
+    "cybersecurity-and-incident-response",
+    "government-cloud-procurement"
+  ],
+  "companies_and_organisations_covered": [
+    "Microsoft",
+    "Amazon Web Services",
+    "Alphabet",
+    "Google Cloud",
+    "Oracle",
+    "U.S. Air Force",
+    "Department of the Air Force",
+    "U.S. Department of Defense",
+    "U.S. Cyber Command",
+    "Cloud One"
+  ],
+  "report": {
+    "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-28.md",
+    "format": "text/markdown"
+  },
+  "reports": [
+    {
+      "path": "Data/02-Master-Reports/Technology-Market/Technology-Market-Research-Report-2026-11-28.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/04-Industry-Analysis/Cloud-Infrastructure/USAF-Cloud-One-Security-Incident-2026-11-28.md",
+      "format": "text/markdown"
+    },
+    {
+      "path": "Data/06-Sources-and-References/Source-Register-2026-11-28.md",
+      "format": "text/markdown"
+    }
+  ],
+  "source_references": {
+    "count": 2,
+    "count_basis": "Two unique documents were opened: one Reuters investigative report and one CBS News follow-up. CBS obtained additional official comments but relies on Reuters for the breach account.",
+    "verification_note": "The Reuters report's publication time and claims were checked against the article. CBS's update time and quoted Air Force and Department of Defense statements were checked. The breach is reported by anonymous sources and is not officially confirmed. The two articles are not counted as two independent confirmations. No claim of 100% verification is made."
+  },
+  "notes": [
+    "This is an interim material-event publication. The routine 72-hour interval from the 2026-11-25 publication was due at 2026-11-28 08:49:02 EAT and had not yet elapsed at this scan cutoff.",
+    "Reuters published the principal report on 2026-11-27 at 11:01 UTC, within the current coverage window.",
+    "CBS updated its follow-up on 2026-11-27 at 9:44 PM EST, equivalent to 2026-11-28 02:44 UTC.",
+    "The Air Force did not confirm or deny the specific reported incident in statements quoted by Reuters and CBS.",
+    "The Department of Defense statement quoted by CBS is general and does not constitute a technical assessment of the reported incident.",
+    "The control-plane access detail is attributed to one anonymous source; the vulnerability and affected provider layer are unknown.",
+    "No evidence establishing data exfiltration, attacker identity, provider-specific compromise, contract loss, remediation cost or financial impact was found.",
+    "No company-specific operating announcement or filing was verified for the priority companies in this window.",
+    "The Guardian report was opened but excluded from the unique source count because it explicitly relied on Reuters and added no independent confirmation.",
+    "No valuation dataset or price-target analysis was assembled."
+  ]
+}
